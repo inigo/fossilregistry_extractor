@@ -1,5 +1,8 @@
 Extract data from content relevant to the Global Registry of Fossil Fuels (https://fossilfuelregistry.org/) and convert it to JSON.
 
+* ghana_converter - production figures from the Ghana National Petroleum Corporation provided by 
+  Fossil Fuel Registry at https://drive.google.com/drive/folders/1z5aByfrIyUi-KeiNjyz3uIKHdebOVV9d?usp=sharing
+
 # License
 
 Copyright (C) 2022 Inigo Surguy
