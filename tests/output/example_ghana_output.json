@@ -1,0 +1,122 @@
+[
+  {
+    "Period": "2018-01-01T00:00:00.000",
+    "Oil Production (bbl)": 1098754.5,
+    "Associated Gas Production (MMscf)": 1666.48,
+    "Non - Asssociated Gas Production (MMscf)": null,
+    "Gas Re-injected (MMscf)": 1139.5,
+    "Fuel Gas (MMscf)": 372.82,
+    "Flared Gas(MMscf)": 154.16,
+    "Sales Gas (MMscf)": 0.0
+  },
+  {
+    "Period": "2018-02-01T00:00:00.000",
+    "Oil Production (bbl)": 909194.42,
+    "Associated Gas Production (MMscf)": 1425.87,
+    "Non - Asssociated Gas Production (MMscf)": null,
+    "Gas Re-injected (MMscf)": 1025.4,
+    "Fuel Gas (MMscf)": 327.99,
+    "Flared Gas(MMscf)": 72.48,
+    "Sales Gas (MMscf)": 0.0
+  },
+  {
+    "Period": "2018-03-01T00:00:00.000",
+    "Oil Production (bbl)": 911716.9,
+    "Associated Gas Production (MMscf)": 1503.66,
+    "Non - Asssociated Gas Production (MMscf)": null,
+    "Gas Re-injected (MMscf)": 1115.26,
+    "Fuel Gas (MMscf)": 346.76,
+    "Flared Gas(MMscf)": 41.62,
+    "Sales Gas (MMscf)": 0.0
+  },
+  {
+    "Period": "2018-04-01T00:00:00.000",
+    "Oil Production (bbl)": 801360.61,
+    "Associated Gas Production (MMscf)": 1366.06,
+    "Non - Asssociated Gas Production (MMscf)": null,
+    "Gas Re-injected (MMscf)": 1014.31,
+    "Fuel Gas (MMscf)": 335.66,
+    "Flared Gas(MMscf)": 16.09,
+    "Sales Gas (MMscf)": 0.0
+  },
+  {
+    "Period": "2018-05-01T00:00:00.000",
+    "Oil Production (bbl)": 778355.43,
+    "Associated Gas Production (MMscf)": 1356.07,
+    "Non - Asssociated Gas Production (MMscf)": null,
+    "Gas Re-injected (MMscf)": 974.71,
+    "Fuel Gas (MMscf)": 347.82,
+    "Flared Gas(MMscf)": 33.54,
+    "Sales Gas (MMscf)": 0.0
+  },
+  {
+    "Period": "2018-06-01T00:00:00.000",
+    "Oil Production (bbl)": 787115.61,
+    "Associated Gas Production (MMscf)": 1409.62,
+    "Non - Asssociated Gas Production (MMscf)": 188.49,
+    "Gas Re-injected (MMscf)": 1036.77,
+    "Fuel Gas (MMscf)": 338.81,
+    "Flared Gas(MMscf)": 34.04,
+    "Sales Gas (MMscf)": 0.0
+  },
+  {
+    "Period": "2018-07-01T00:00:00.000",
+    "Oil Production (bbl)": 810709.34,
+    "Associated Gas Production (MMscf)": 1493.7,
+    "Non - Asssociated Gas Production (MMscf)": 400.89,
+    "Gas Re-injected (MMscf)": 1126.89,
+    "Fuel Gas (MMscf)": 350.45,
+    "Flared Gas(MMscf)": 370.83,
+    "Sales Gas (MMscf)": 0.0
+  },
+  {
+    "Period": "2018-08-01T00:00:00.000",
+    "Oil Production (bbl)": 799909.38,
+    "Associated Gas Production (MMscf)": 1510.95,
+    "Non - Asssociated Gas Production (MMscf)": 754.41,
+    "Gas Re-injected (MMscf)": 1131.56,
+    "Fuel Gas (MMscf)": 357.12,
+    "Flared Gas(MMscf)": 72.19,
+    "Sales Gas (MMscf)": 661.44
+  },
+  {
+    "Period": "2018-09-01T00:00:00.000",
+    "Oil Production (bbl)": 734348.44,
+    "Associated Gas Production (MMscf)": 1335.99,
+    "Non - Asssociated Gas Production (MMscf)": 520.07,
+    "Gas Re-injected (MMscf)": 992.76,
+    "Fuel Gas (MMscf)": 357.03,
+    "Flared Gas(MMscf)": 10.18,
+    "Sales Gas (MMscf)": 445.2
+  },
+  {
+    "Period": "2018-10-01T00:00:00.000",
+    "Oil Production (bbl)": 709628.53,
+    "Associated Gas Production (MMscf)": 1299.86,
+    "Non - Asssociated Gas Production (MMscf)": 914.67,
+    "Gas Re-injected (MMscf)": 880.4,
+    "Fuel Gas (MMscf)": 363.25,
+    "Flared Gas(MMscf)": 67.39,
+    "Sales Gas (MMscf)": 874.15
+  },
+  {
+    "Period": "2018-11-01T00:00:00.000",
+    "Oil Production (bbl)": 818248.15,
+    "Associated Gas Production (MMscf)": 1402.63,
+    "Non - Asssociated Gas Production (MMscf)": 2195.54,
+    "Gas Re-injected (MMscf)": 1085.65,
+    "Fuel Gas (MMscf)": 347.05,
+    "Flared Gas(MMscf)": 36.23,
+    "Sales Gas (MMscf)": 2083.29
+  },
+  {
+    "Period": "2018-12-01T00:00:00.000",
+    "Oil Production (bbl)": 956977.75,
+    "Associated Gas Production (MMscf)": 1504.18,
+    "Non - Asssociated Gas Production (MMscf)": 2162.0,
+    "Gas Re-injected (MMscf)": 1198.7,
+    "Fuel Gas (MMscf)": 360.28,
+    "Flared Gas(MMscf)": 9.58,
+    "Sales Gas (MMscf)": 2045.91
+  }
+]
