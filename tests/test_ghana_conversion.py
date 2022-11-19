@@ -35,11 +35,18 @@ class TestGhanaConversion(unittest.TestCase):
         self.assertEqual('2,045.91', table[-1][-1])
 
     def test_convert_table(self):
-        r = GhanaConverter._convert_table(self.example_table)
+        r = GhanaConverter._to_json(GhanaConverter()._convert_table(self.example_table))
         self.assertEqual(r[0]["Period"], '2018-01-01T00:00:00.000')
         self.assertEqual(r[0]['Fuel Gas (MMscf)'], 372.82)
         self.assertEqual(r[1]['Oil Production (bbl)'], 909194.42)
 
+    def test_identify_region(self):
+        self.assertEqual(GhanaConverter._identify_field("2018 OCTP PRODUCTION"), "OCTP")
+        self.assertEqual(GhanaConverter._identify_field("OCTP / Sankofa-Gye Nyame Production for the Year 2019"), "OCTP / Sankofa-Gye Nyame")
+        self.assertEqual(GhanaConverter._identify_field("2018 Jubilee Production"), "Jubilee")
+        self.assertEqual(GhanaConverter._identify_field("Jubilee Production for the Year 2019"), "Jubilee")
+        self.assertEqual(GhanaConverter._identify_field("2018 TEN PRODUCTION"), "TEN")
+        self.assertEqual(GhanaConverter._identify_field("TEN Production for the Year 2019"), "TEN")
 
 if __name__ == '__main__':
     unittest.main()
