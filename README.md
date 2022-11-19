@@ -2,6 +2,8 @@ Extract data from content relevant to the Global Registry of Fossil Fuels (https
 
 * ghana_converter - production figures from the Ghana National Petroleum Corporation provided by 
   Fossil Fuel Registry at https://drive.google.com/drive/folders/1z5aByfrIyUi-KeiNjyz3uIKHdebOVV9d?usp=sharing
+* poland_converter - list of natural gas fields in Poland from the Polish Geological Institute 
+
 
 # License
 

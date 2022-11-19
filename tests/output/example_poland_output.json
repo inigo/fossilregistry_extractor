@@ -1,0 +1,2862 @@
+[
+  {
+    "Number": "1",
+    "Name of deposit": "B 3",
+    "State of development": "E",
+    "Resources anticipated economic": "113.38",
+    "Resources economic": "113.38",
+    "Output": "14.69",
+    "County": "Ba\u0142tyk (off shore)",
+    "Country": "Poland"
+  },
+  {
+    "Number": "2",
+    "Name of deposit": "B 4",
+    "State of development": "P",
+    "Resources anticipated economic": "2,686.60",
+    "Resources economic": "1,972.40",
+    "Output": "-",
+    "County": "Ba\u0142tyk (off shore)",
+    "Country": "Poland"
+  },
+  {
+    "Number": "3",
+    "Name of deposit": "B 6",
+    "State of development": "P",
+    "Resources anticipated economic": "1,792.85",
+    "Resources economic": "1,792.85",
+    "Output": "-",
+    "County": "Ba\u0142tyk (off shore)",
+    "Country": "Poland"
+  },
+  {
+    "Number": "4",
+    "Name of deposit": "B 8",
+    "State of development": "E",
+    "Resources anticipated economic": "428.88",
+    "Resources economic": "412.43",
+    "Output": "3.55",
+    "County": "Ba\u0142tyk (off shore)",
+    "Country": "Poland"
+  },
+  {
+    "Number": "1",
+    "Name of deposit": "Bednarka",
+    "State of development": "E",
+    "Resources anticipated economic": "antic. \nsubecon.",
+    "Resources economic": "-",
+    "Output": "0.50",
+    "County": "gorlicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "2",
+    "Name of deposit": "Biecz",
+    "State of development": "R",
+    "Resources anticipated economic": "antic. \nsubecon.",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "gorlicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "3",
+    "Name of deposit": "B\u00f3brka-Rogi",
+    "State of development": "E",
+    "Resources anticipated economic": "19.21",
+    "Resources economic": "0.05",
+    "Output": "0.06",
+    "County": "kro\u015bnie\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "4",
+    "Name of deposit": "Czarna",
+    "State of development": "E",
+    "Resources anticipated economic": "1.26",
+    "Resources economic": "0.17",
+    "Output": "0.12",
+    "County": "bieszczadzki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "5",
+    "Name of deposit": "D\u0105br\u00f3wka Tuchowska",
+    "State of development": "E",
+    "Resources anticipated economic": "11.55",
+    "Resources economic": "10.13",
+    "Output": "3.80",
+    "County": "tarnowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "6",
+    "Name of deposit": "Dominik.-Kob.-Kryg",
+    "State of development": "Z",
+    "Resources anticipated economic": "-",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "gorlicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "7",
+    "Name of deposit": "Draganowa",
+    "State of development": "B",
+    "Resources anticipated economic": "88.07",
+    "Resources economic": "42.29",
+    "Output": "0.20",
+    "County": "kro\u015bnie\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "8",
+    "Name of deposit": "Dwernik",
+    "State of development": "E",
+    "Resources anticipated economic": "antic. \nsubecon.",
+    "Resources economic": "-",
+    "Output": "0.01",
+    "County": "bieszczadzki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "9",
+    "Name of deposit": "Folusz-Pielgrzymka",
+    "State of development": "E",
+    "Resources anticipated economic": "antic. \nsubecon.",
+    "Resources economic": "-",
+    "Output": "0.27",
+    "County": "jasielski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "10",
+    "Name of deposit": "Gorlice",
+    "State of development": "E",
+    "Resources anticipated economic": "31.08",
+    "Resources economic": "-",
+    "Output": "0.03",
+    "County": "gorlicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "11",
+    "Name of deposit": "Gorlice-Glinik",
+    "State of development": "E",
+    "Resources anticipated economic": "5.87",
+    "Resources economic": "1.15",
+    "Output": "0.81",
+    "County": "gorlicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "12",
+    "Name of deposit": "Grabownica",
+    "State of development": "E",
+    "Resources anticipated economic": "2.08",
+    "Resources economic": "0.47",
+    "Output": "0.75",
+    "County": "brzozowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "13",
+    "Name of deposit": "Harklowa",
+    "State of development": "E",
+    "Resources anticipated economic": "0.22",
+    "Resources economic": "0.07",
+    "Output": "0.02",
+    "County": "jasielski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "14",
+    "Name of deposit": "Iskrzynia",
+    "State of development": "Z",
+    "Resources anticipated economic": "antic. \nsubecon.",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "brzozowski, \nkro\u015bnie\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "15",
+    "Name of deposit": "Iwonicz-Zdr\u00f3j",
+    "State of development": "E",
+    "Resources anticipated economic": "6.44",
+    "Resources economic": "-",
+    "Output": "0.28",
+    "County": "kro\u015bnie\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "16",
+    "Name of deposit": "Jaszczew",
+    "State of development": "E",
+    "Resources anticipated economic": "215.56",
+    "Resources economic": "8.98",
+    "Output": "5.08",
+    "County": "jasielski, kro\u015bnie\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "17",
+    "Name of deposit": "Jurowce-Srog\u00f3w",
+    "State of development": "E",
+    "Resources anticipated economic": "51.69",
+    "Resources economic": "29.29",
+    "Output": "7.68",
+    "County": "sanocki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "18",
+    "Name of deposit": "Kro\u015bcienko",
+    "State of development": "E",
+    "Resources anticipated economic": "0.92",
+    "Resources economic": "0.17",
+    "Output": "0.02",
+    "County": "kro\u015bnie\u0144ski, \nm.Krosno",
+    "Country": "Poland"
+  },
+  {
+    "Number": "19",
+    "Name of deposit": "Lachowice-Stryszawa",
+    "State of development": "R",
+    "Resources anticipated economic": "240.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "suski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "20",
+    "Name of deposit": "\u0141odyna",
+    "State of development": "E",
+    "Resources anticipated economic": "53.43",
+    "Resources economic": "-",
+    "Output": "0.41",
+    "County": "bieszczadzki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "21",
+    "Name of deposit": "Magdalena",
+    "State of development": "Z",
+    "Resources anticipated economic": "antic. \nsubecon.",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "gorlicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "22",
+    "Name of deposit": "Osobnica",
+    "State of development": "E",
+    "Resources anticipated economic": "42.31",
+    "Resources economic": "1.32",
+    "Output": "0.61",
+    "County": "jasielski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "23",
+    "Name of deposit": "Potok",
+    "State of development": "E",
+    "Resources anticipated economic": "7.68",
+    "Resources economic": "0.22",
+    "Output": "0.03",
+    "County": "kro\u015bnie\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "24",
+    "Name of deposit": "Rej. Grabownica Wie\u015b",
+    "State of development": "E",
+    "Resources anticipated economic": "84.12",
+    "Resources economic": "71.52",
+    "Output": "0.03",
+    "County": "brzozowski, sanocki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "25",
+    "Name of deposit": "Roztoki",
+    "State of development": "E",
+    "Resources anticipated economic": "147.28",
+    "Resources economic": "33.27",
+    "Output": "7.39",
+    "County": "jasielski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "26",
+    "Name of deposit": "Sanok-Zab\u0142otce",
+    "State of development": "E",
+    "Resources anticipated economic": "146.00",
+    "Resources economic": "2.53",
+    "Output": "3.97",
+    "County": "sanocki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "27",
+    "Name of deposit": "S\u0142opnice",
+    "State of development": "Z",
+    "Resources anticipated economic": "80.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "limanowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "28",
+    "Name of deposit": "Strachocina",
+    "State of development": "G",
+    "Resources anticipated economic": "121.50",
+    "Resources economic": "121.50",
+    "Output": "-",
+    "County": "brzozowski, sanocki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "29",
+    "Name of deposit": "Strzeszyn",
+    "State of development": "E",
+    "Resources anticipated economic": "2.67",
+    "Resources economic": "2.30",
+    "Output": "0.01",
+    "County": "gorlicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "30",
+    "Name of deposit": "Szalowa",
+    "State of development": "E",
+    "Resources anticipated economic": "71.32",
+    "Resources economic": "60.20",
+    "Output": "0.50",
+    "County": "gorlicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "31",
+    "Name of deposit": "Turze Pole-Zmiennica",
+    "State of development": "E",
+    "Resources anticipated economic": "0.10",
+    "Resources economic": "0.10",
+    "Output": "0.04",
+    "County": "brzozowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "32",
+    "Name of deposit": "Wa\u0144kowa",
+    "State of development": "E",
+    "Resources anticipated economic": "5.27",
+    "Resources economic": "0.58",
+    "Output": "0.14",
+    "County": "bieszczadzki, leski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "33",
+    "Name of deposit": "Wetlina",
+    "State of development": "P",
+    "Resources anticipated economic": "antic. \nsubecon.",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "leski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "34",
+    "Name of deposit": "W\u0119gl\u00f3wka",
+    "State of development": "Z",
+    "Resources anticipated economic": "-",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "kro\u015bnie\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "35",
+    "Name of deposit": "Wola Jasienicka",
+    "State of development": "E",
+    "Resources anticipated economic": "antic. \nsubecon.",
+    "Resources economic": "0.41",
+    "Output": "0.07",
+    "County": "brzozowski, \nkro\u015bnie\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "1",
+    "Name of deposit": "Aleksandr\u00f3wka",
+    "State of development": "E",
+    "Resources anticipated economic": "162.24",
+    "Resources economic": "80.35",
+    "Output": "10.33",
+    "County": "g\u00f3rowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "2",
+    "Name of deposit": "Antonin 1",
+    "State of development": "Z",
+    "Resources anticipated economic": "7.20",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "ostrowski, \nostrzeszowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "3",
+    "Name of deposit": "Babimost",
+    "State of development": "P",
+    "Resources anticipated economic": "910.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "wolszty\u0144ski, \nzielonog\u00f3rski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "4",
+    "Name of deposit": "Bia\u0142ogard",
+    "State of development": "E",
+    "Resources anticipated economic": "59.43",
+    "Resources economic": "-",
+    "Output": "14.13",
+    "County": "bia\u0142ogardzki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "5",
+    "Name of deposit": "Bia\u0142og\u00f3ra-E",
+    "State of development": "Z",
+    "Resources anticipated economic": "antic. \nsubecon.",
+    "Resources economic": "1.02",
+    "Output": "-",
+    "County": "pucki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "6",
+    "Name of deposit": "B\u0142otno",
+    "State of development": "E",
+    "Resources anticipated economic": "2.05",
+    "Resources economic": "-",
+    "Output": "0.05",
+    "County": "goleniowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "7",
+    "Name of deposit": "BMB (Barn\u00f3wko - Mostno - \nBuszewo)",
+    "State of development": "E",
+    "Resources anticipated economic": "3,299.26",
+    "Resources economic": "135.18",
+    "Output": "349.55",
+    "County": "gorzowski, \nmy\u015bliborski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "8",
+    "Name of deposit": "Bogdaj-Uciech\u00f3w",
+    "State of development": "E",
+    "Resources anticipated economic": "3,531.14",
+    "Resources economic": "2,306.29",
+    "Output": "86.77",
+    "County": "milicki, ostrowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "9",
+    "Name of deposit": "Bonikowo",
+    "State of development": "G",
+    "Resources anticipated economic": "328.63",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "grodziski, ko\u015bcia\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "10",
+    "Name of deposit": "Borowo",
+    "State of development": "P",
+    "Resources anticipated economic": "65.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "ko\u015bcia\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "11",
+    "Name of deposit": "Borz\u0119cin",
+    "State of development": "E",
+    "Resources anticipated economic": "47.06",
+    "Resources economic": "65.46",
+    "Output": "16.05",
+    "County": "trzebnicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "12",
+    "Name of deposit": "Breslack-Kosarzyn",
+    "State of development": "Z",
+    "Resources anticipated economic": "-",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "kro\u015bnie\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "13",
+    "Name of deposit": "Bro\u0144sko",
+    "State of development": "E",
+    "Resources anticipated economic": "15,797.79",
+    "Resources economic": "15,178.85",
+    "Output": "781.00",
+    "County": "grodziski, ko\u015bcia\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "14",
+    "Name of deposit": "Brzostowo",
+    "State of development": "E",
+    "Resources anticipated economic": "66.09",
+    "Resources economic": "40.52",
+    "Output": "2.42",
+    "County": "milicki, ole\u015bnicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "15",
+    "Name of deposit": "Brz\u00f3zka",
+    "State of development": "P",
+    "Resources anticipated economic": "75.40",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "kro\u015bnie\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "16",
+    "Name of deposit": "Buk",
+    "State of development": "E",
+    "Resources anticipated economic": "9.61",
+    "Resources economic": "-",
+    "Output": "0.04",
+    "County": "nowotomyski, \npozna\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "17",
+    "Name of deposit": "Bukowiec",
+    "State of development": "E",
+    "Resources anticipated economic": "67.09",
+    "Resources economic": "45.59",
+    "Output": "0.56",
+    "County": "grodziski, \nnowotomyski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "18",
+    "Name of deposit": "Ceradz Dolny",
+    "State of development": "Z",
+    "Resources anticipated economic": "85.27",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "pozna\u0144ski, \nszamotulski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "19",
+    "Name of deposit": "Ciechnowo",
+    "State of development": "E",
+    "Resources anticipated economic": "30.39",
+    "Resources economic": "42.19",
+    "Output": "9.71",
+    "County": "\u015bwidwi\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "20",
+    "Name of deposit": "Ciecierzyn",
+    "State of development": "E",
+    "Resources anticipated economic": "457.49",
+    "Resources economic": "245.06",
+    "Output": "14.82",
+    "County": "lubelski, m.Lublin",
+    "Country": "Poland"
+  },
+  {
+    "Number": "21",
+    "Name of deposit": "Czeklin",
+    "State of development": "P",
+    "Resources anticipated economic": "95.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "kro\u015bnie\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "22",
+    "Name of deposit": "Czesz\u00f3w",
+    "State of development": "E",
+    "Resources anticipated economic": "408.88",
+    "Resources economic": "311.30",
+    "Output": "4.83",
+    "County": "milicki, ole\u015bnicki, \ntrzebnicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "23",
+    "Name of deposit": "Daszewo",
+    "State of development": "G",
+    "Resources anticipated economic": "27.72",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "bia\u0142ogardzki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "24",
+    "Name of deposit": "Daszewo N",
+    "State of development": "E",
+    "Resources anticipated economic": "999.47",
+    "Resources economic": "225.74",
+    "Output": "25.25",
+    "County": "ko\u0142obrzeski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "25",
+    "Name of deposit": "D\u0119bina",
+    "State of development": "R",
+    "Resources anticipated economic": "189.71",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "g\u0142ogowski, \nwschowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "26",
+    "Name of deposit": "D\u0119bki",
+    "State of development": "E",
+    "Resources anticipated economic": "3.00",
+    "Resources economic": "4.23",
+    "Output": "0.22",
+    "County": "pucki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "27",
+    "Name of deposit": "Duszniki E",
+    "State of development": "Z",
+    "Resources anticipated economic": "-",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "szamotulski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "28",
+    "Name of deposit": "Dzieduszyce",
+    "State of development": "E",
+    "Resources anticipated economic": "69.95",
+    "Resources economic": "-",
+    "Output": "0.61",
+    "County": "gorzowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "29",
+    "Name of deposit": "El\u015cbieciny",
+    "State of development": "E",
+    "Resources anticipated economic": "71.56",
+    "Resources economic": "71.56",
+    "Output": "22.07",
+    "County": "grodziski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "30",
+    "Name of deposit": "Gajewo",
+    "State of development": "B",
+    "Resources anticipated economic": "17.00",
+    "Resources economic": "17.28",
+    "Output": "-",
+    "County": "gorzowski, \nmy\u015bliborski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "31",
+    "Name of deposit": "Glinnik",
+    "State of development": "E",
+    "Resources anticipated economic": "0.64",
+    "Resources economic": "0.47",
+    "Output": "0.05",
+    "County": "lubartowski, lubelski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "32",
+    "Name of deposit": "Gorzyce",
+    "State of development": "P",
+    "Resources anticipated economic": "antic. \nsubecon.",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "ko\u015bcia\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "33",
+    "Name of deposit": "Gorzys\u0142aw N",
+    "State of development": "E",
+    "Resources anticipated economic": "388.84",
+    "Resources economic": "194.96",
+    "Output": "24.19",
+    "County": "gryficki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "34",
+    "Name of deposit": "Gorzys\u0142aw S",
+    "State of development": "T",
+    "Resources anticipated economic": "419.47",
+    "Resources economic": "54.83",
+    "Output": "-",
+    "County": "gryficki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "35",
+    "Name of deposit": "G\u00f3ra",
+    "State of development": "E",
+    "Resources anticipated economic": "123.14",
+    "Resources economic": "97.50",
+    "Output": "37.18",
+    "County": "g\u00f3rowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "36",
+    "Name of deposit": "G\u00f3rzyca",
+    "State of development": "E",
+    "Resources anticipated economic": "410.67",
+    "Resources economic": "375.64",
+    "Output": "40.90",
+    "County": "s\u0142ubicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "37",
+    "Name of deposit": "Grab\u00f3wka E",
+    "State of development": "E",
+    "Resources anticipated economic": "32.93",
+    "Resources economic": "21.37",
+    "Output": "1.26",
+    "County": "milicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "38",
+    "Name of deposit": "Grab\u00f3wka W",
+    "State of development": "P",
+    "Resources anticipated economic": "170.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "milicki, trzebnicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "39",
+    "Name of deposit": "Grochowice",
+    "State of development": "E",
+    "Resources anticipated economic": "1,147.58",
+    "Resources economic": "113.56",
+    "Output": "49.41",
+    "County": "g\u0142ogowski, \nnowosolski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "40",
+    "Name of deposit": "Grodzisk-26",
+    "State of development": "E",
+    "Resources anticipated economic": "1.01",
+    "Resources economic": "7.80",
+    "Output": "1.34",
+    "County": "grodziski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "41",
+    "Name of deposit": "Grot\u00f3w",
+    "State of development": "E",
+    "Resources anticipated economic": "896.14",
+    "Resources economic": "748.96",
+    "Output": "24.92",
+    "County": "czarnkowsko-\ntrzcianecki, \nmi\u0119dzychodzki, \nstrzelecko-\ndrezdenecki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "43",
+    "Name of deposit": "Jab\u0142onna",
+    "State of development": "E",
+    "Resources anticipated economic": "321.13",
+    "Resources economic": "321.13",
+    "Output": "50.56",
+    "County": "grodziski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "44",
+    "Name of deposit": "Jab\u0142onna S",
+    "State of development": "E",
+    "Resources anticipated economic": "117.27",
+    "Resources economic": "63.71",
+    "Output": "27.89",
+    "County": "grodziski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "45",
+    "Name of deposit": "Jab\u0142onna W",
+    "State of development": "E",
+    "Resources anticipated economic": "214.17",
+    "Resources economic": "213.47",
+    "Output": "15.72",
+    "County": "grodziski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "46",
+    "Name of deposit": "Jankowice",
+    "State of development": "Z",
+    "Resources anticipated economic": "-",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "pozna\u0144ski, \nszamotulski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "47",
+    "Name of deposit": "Jarocin",
+    "State of development": "E",
+    "Resources anticipated economic": "390.39",
+    "Resources economic": "258.68",
+    "Output": "4.13",
+    "County": "jaroci\u0144ski, pleszewski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "48",
+    "Name of deposit": "Jastrz\u0119bsko",
+    "State of development": "R",
+    "Resources anticipated economic": "96.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "nowotomyski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "49",
+    "Name of deposit": "Jeniniec",
+    "State of development": "T",
+    "Resources anticipated economic": "0.97",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "gorzowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "50",
+    "Name of deposit": "Kaleje",
+    "State of development": "T",
+    "Resources anticipated economic": "404.42",
+    "Resources economic": "257.28",
+    "Output": "-",
+    "County": "\u015bredzki, \u015bremski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "51",
+    "Name of deposit": "Kaleje-E",
+    "State of development": "E",
+    "Resources anticipated economic": "5.74",
+    "Resources economic": "5.29",
+    "Output": "12.20",
+    "County": "\u015bredzki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "52",
+    "Name of deposit": "Kamie\u0144 Ma\u0142y",
+    "State of development": "E",
+    "Resources anticipated economic": "129.80",
+    "Resources economic": "57.95",
+    "Output": "0.05",
+    "County": "gorzowski, sul\u0119ci\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "53",
+    "Name of deposit": "Kamie\u0144 Pomorski",
+    "State of development": "E",
+    "Resources anticipated economic": "10.06",
+    "Resources economic": "-",
+    "Output": "0.33",
+    "County": "kamie\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "54",
+    "Name of deposit": "Kandlewo",
+    "State of development": "R",
+    "Resources anticipated economic": "239.53",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "g\u00f3rowski, wschowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "55",
+    "Name of deposit": "Kargowa",
+    "State of development": "R",
+    "Resources anticipated economic": "2,650.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "wolszty\u0144ski, \nzielonog\u00f3rski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "56",
+    "Name of deposit": "K\u0105kolewo",
+    "State of development": "P",
+    "Resources anticipated economic": "240.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "leszczy\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "57",
+    "Name of deposit": "Kije",
+    "State of development": "E",
+    "Resources anticipated economic": "4.04",
+    "Resources economic": "1.85",
+    "Output": "0.01",
+    "County": "zielonog\u00f3rski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "58",
+    "Name of deposit": "Kije NE",
+    "State of development": "Z",
+    "Resources anticipated economic": "antic. \nsubecon.",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "zielonog\u00f3rski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "59",
+    "Name of deposit": "Kl\u0119ka E",
+    "State of development": "Z",
+    "Resources anticipated economic": "-",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "jaroci\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "60",
+    "Name of deposit": "Komorze",
+    "State of development": "P",
+    "Resources anticipated economic": "340.05",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "jaroci\u0144ski, wrzesi\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "61",
+    "Name of deposit": "Kosarzyn - E",
+    "State of development": "Z",
+    "Resources anticipated economic": "-",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "kro\u015bnie\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "62",
+    "Name of deposit": "Kosarzyn - S",
+    "State of development": "Z",
+    "Resources anticipated economic": "-",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "kro\u015bnie\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "63",
+    "Name of deposit": "Kosarzyn N",
+    "State of development": "Z",
+    "Resources anticipated economic": "-",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "kro\u015bnie\u0144ski, s\u0142ubicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "64",
+    "Name of deposit": "Ko\u015bcian S",
+    "State of development": "E",
+    "Resources anticipated economic": "3,781.94",
+    "Resources economic": "2,204.94",
+    "Output": "370.87",
+    "County": "ko\u015bcia\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "65",
+    "Name of deposit": "Ko\u015bcian S-Ca2",
+    "State of development": "P",
+    "Resources anticipated economic": "antic. \nsubecon.",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "ko\u015bcia\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "66",
+    "Name of deposit": "Kromolice",
+    "State of development": "E",
+    "Resources anticipated economic": "99.73",
+    "Resources economic": "99.64",
+    "Output": "45.81",
+    "County": "\u015bredzki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "67",
+    "Name of deposit": "Kromolice S",
+    "State of development": "E",
+    "Resources anticipated economic": "458.96",
+    "Resources economic": "409.23",
+    "Output": "19.44",
+    "County": "pozna\u0144ski, \u015bredzki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "68",
+    "Name of deposit": "Kul\u00f3w",
+    "State of development": "R",
+    "Resources anticipated economic": "34.95",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "g\u0142ogowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "69",
+    "Name of deposit": "Lipowiec",
+    "State of development": "R",
+    "Resources anticipated economic": "100.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "g\u00f3rowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "70",
+    "Name of deposit": "Lipowiec el. E",
+    "State of development": "T",
+    "Resources anticipated economic": "462.77",
+    "Resources economic": "157.07",
+    "Output": "-",
+    "County": "g\u00f3rowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "71",
+    "Name of deposit": "Lisewo",
+    "State of development": "E",
+    "Resources anticipated economic": "878.15",
+    "Resources economic": "874.15",
+    "Output": "60.73",
+    "County": "jaroci\u0144ski, wrzesi\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "72",
+    "Name of deposit": "Lubiat\u00f3w",
+    "State of development": "E",
+    "Resources anticipated economic": "1,462.71",
+    "Resources economic": "1,192.38",
+    "Output": "134.57",
+    "County": "mi\u0119dzychodzki, \nmi\u0119dzyrzecki, \nstrzelecko-\ndrezdenecki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "73",
+    "Name of deposit": "Lubiszyn",
+    "State of development": "E",
+    "Resources anticipated economic": "1.04",
+    "Resources economic": "-",
+    "Output": "1.11",
+    "County": "gorzowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "74",
+    "Name of deposit": "\u0141\u0119ki",
+    "State of development": "E",
+    "Resources anticipated economic": "35.98",
+    "Resources economic": "35.98",
+    "Output": "5.88",
+    "County": "grodziski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "75",
+    "Name of deposit": "Me\u0142giew A i Me\u0142giew B",
+    "State of development": "E",
+    "Resources anticipated economic": "776.65",
+    "Resources economic": "148.81",
+    "Output": "23.77",
+    "County": "lubelski, \u015bwidnicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "76",
+    "Name of deposit": "Michorzewo",
+    "State of development": "E",
+    "Resources anticipated economic": "7.09",
+    "Resources economic": "-",
+    "Output": "1.49",
+    "County": "nowotomyski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "77",
+    "Name of deposit": "Mi\u0119dzych\u00f3d",
+    "State of development": "E",
+    "Resources anticipated economic": "4,309.70",
+    "Resources economic": "2,185.85",
+    "Output": "59.15",
+    "County": "mi\u0119dzychodzki, \nstrzelecko-\ndrezdenecki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "78",
+    "Name of deposit": "Mi\u0119dzyzdroje E",
+    "State of development": "P",
+    "Resources anticipated economic": "300.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "kamie\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "79",
+    "Name of deposit": "Mi\u0119dzyzdroje W",
+    "State of development": "P",
+    "Resources anticipated economic": "300.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "kamie\u0144ski, \nm.\u015awinouj\u015bcie",
+    "Country": "Poland"
+  },
+  {
+    "Number": "80",
+    "Name of deposit": "M\u0142odasko",
+    "State of development": "E",
+    "Resources anticipated economic": "44.10",
+    "Resources economic": "43.86",
+    "Output": "27.28",
+    "County": "pozna\u0144ski, \nszamotulski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "81",
+    "Name of deposit": "Moz\u00f3w S",
+    "State of development": "E",
+    "Resources anticipated economic": "0.65",
+    "Resources economic": "-",
+    "Output": "0.26",
+    "County": "zielonog\u00f3rski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "82",
+    "Name of deposit": "Namy\u015blin",
+    "State of development": "R",
+    "Resources anticipated economic": "24.72",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "my\u015bliborski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "83",
+    "Name of deposit": "Narat\u00f3w",
+    "State of development": "E",
+    "Resources anticipated economic": "102.63",
+    "Resources economic": "81.15",
+    "Output": "26.16",
+    "County": "g\u00f3rowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "84",
+    "Name of deposit": "Niechl\u00f3w",
+    "State of development": "E",
+    "Resources anticipated economic": "159.30",
+    "Resources economic": "31.50",
+    "Output": "14.38",
+    "County": "g\u00f3rowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "85",
+    "Name of deposit": "Niemierzyce",
+    "State of development": "Z",
+    "Resources anticipated economic": "-",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "grodziski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "86",
+    "Name of deposit": "Nowa S\u00f3l",
+    "State of development": "R",
+    "Resources anticipated economic": "antic. \nsubecon.",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "nowosolski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "87",
+    "Name of deposit": "Nowy Tomy\u015bl",
+    "State of development": "E",
+    "Resources anticipated economic": "455.89",
+    "Resources economic": "334.79",
+    "Output": "23.48",
+    "County": "nowotomyski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "89",
+    "Name of deposit": "Pakos\u0142aw",
+    "State of development": "R",
+    "Resources anticipated economic": "249.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "rawicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "90",
+    "Name of deposit": "Papro\u0107",
+    "State of development": "E",
+    "Resources anticipated economic": "3,438.80",
+    "Resources economic": "3,228.63",
+    "Output": "182.45",
+    "County": "grodziski, \nnowotomyski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "91",
+    "Name of deposit": "Papro\u0107 W",
+    "State of development": "E",
+    "Resources anticipated economic": "2,171.50",
+    "Resources economic": "1,991.54",
+    "Output": "116.76",
+    "County": "nowotomyski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "92",
+    "Name of deposit": "Podrzewie",
+    "State of development": "E",
+    "Resources anticipated economic": "330.34",
+    "Resources economic": "8.76",
+    "Output": "4.68",
+    "County": "szamotulski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "93",
+    "Name of deposit": "Pora\u015cyn",
+    "State of development": "E",
+    "Resources anticipated economic": "87.90",
+    "Resources economic": "52.02",
+    "Output": "0.35",
+    "County": "nowotomyski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "94",
+    "Name of deposit": "Przyt\u00f3r",
+    "State of development": "P",
+    "Resources anticipated economic": "360.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "m.\u015awinouj\u015bcie",
+    "Country": "Poland"
+  },
+  {
+    "Number": "95",
+    "Name of deposit": "Radlin",
+    "State of development": "E",
+    "Resources anticipated economic": "3,226.45",
+    "Resources economic": "1,442.43",
+    "Output": "178.94",
+    "County": "jaroci\u0144ski, \u015bredzki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "96",
+    "Name of deposit": "Radoszyn",
+    "State of development": "E",
+    "Resources anticipated economic": "115.26",
+    "Resources economic": "101.31",
+    "Output": "0.72",
+    "County": "\u015bwiebodzi\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "97",
+    "Name of deposit": "Radzi\u0105dz",
+    "State of development": "E",
+    "Resources anticipated economic": "183.85",
+    "Resources economic": "16.79",
+    "Output": "12.99",
+    "County": "trzebnicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "98",
+    "Name of deposit": "Radzi\u0105dz-W",
+    "State of development": "R",
+    "Resources anticipated economic": "40.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "trzebnicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "99",
+    "Name of deposit": "Rawicz-dolomit g\u0142\u00f3wny",
+    "State of development": "P",
+    "Resources anticipated economic": "230.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "rawicki, trzebnicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "100",
+    "Name of deposit": "Rawicz-wap.podst.-cz.sp\u0105g.",
+    "State of development": "P",
+    "Resources anticipated economic": "475.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "rawicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "101",
+    "Name of deposit": "Rekowo",
+    "State of development": "E",
+    "Resources anticipated economic": "0.32",
+    "Resources economic": "-",
+    "Output": "0.05",
+    "County": "kamie\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "102",
+    "Name of deposit": "Retno",
+    "State of development": "E",
+    "Resources anticipated economic": "-",
+    "Resources economic": "-",
+    "Output": "0.52",
+    "County": "kro\u015bnie\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "103",
+    "Name of deposit": "Roszk\u00f3w",
+    "State of development": "E",
+    "Resources anticipated economic": "246.22",
+    "Resources economic": "246.12",
+    "Output": "44.81",
+    "County": "jaroci\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "104",
+    "Name of deposit": "R\u00f3\u015ca\u0144sko",
+    "State of development": "T",
+    "Resources anticipated economic": "2,231.52",
+    "Resources economic": "744.49",
+    "Output": "-",
+    "County": "my\u015bliborski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "105",
+    "Name of deposit": "Ruchocice",
+    "State of development": "E",
+    "Resources anticipated economic": "484.72",
+    "Resources economic": "453.02",
+    "Output": "40.99",
+    "County": "grodziski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "106",
+    "Name of deposit": "S\u0119dziny",
+    "State of development": "P",
+    "Resources anticipated economic": "80.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "szamotulski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "107",
+    "Name of deposit": "Sierak\u00f3w",
+    "State of development": "P",
+    "Resources anticipated economic": "93.91",
+    "Resources economic": "55.62",
+    "Output": "-",
+    "County": "mi\u0119dzychodzki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "108",
+    "Name of deposit": "S\u0142awoborze",
+    "State of development": "E",
+    "Resources anticipated economic": "1.61",
+    "Resources economic": "-",
+    "Output": "0.11",
+    "County": "\u015bwidwi\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "109",
+    "Name of deposit": "S\u0142awoborze",
+    "State of development": "E",
+    "Resources anticipated economic": "66.98",
+    "Resources economic": "66.10",
+    "Output": "9.25",
+    "County": "\u015bwidwi\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "110",
+    "Name of deposit": "Solec",
+    "State of development": "P",
+    "Resources anticipated economic": "76.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "\u015bremski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "111",
+    "Name of deposit": "Stanowice",
+    "State of development": "P",
+    "Resources anticipated economic": "602.03",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "gorzowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "112",
+    "Name of deposit": "St\u0119szew",
+    "State of development": "Z",
+    "Resources anticipated economic": "-",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "pozna\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "113",
+    "Name of deposit": "St\u0119\u015cyca",
+    "State of development": "E",
+    "Resources anticipated economic": "402.33",
+    "Resources economic": "105.87",
+    "Output": "0.55",
+    "County": "garwoli\u0144ski, rycki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "114",
+    "Name of deposit": "Strykowo",
+    "State of development": "Z",
+    "Resources anticipated economic": "-",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "pozna\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "115",
+    "Name of deposit": "Szewce E",
+    "State of development": "Z",
+    "Resources anticipated economic": "53.21",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "pozna\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "116",
+    "Name of deposit": "Szewce W",
+    "State of development": "Z",
+    "Resources anticipated economic": "-",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "nowotomyski, \npozna\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "117",
+    "Name of deposit": "Szlichtyngowa",
+    "State of development": "E",
+    "Resources anticipated economic": "188.93",
+    "Resources economic": "163.68",
+    "Output": "26.10",
+    "County": "wschowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "118",
+    "Name of deposit": "\u015alub\u00f3w",
+    "State of development": "E",
+    "Resources anticipated economic": "20.31",
+    "Resources economic": "16.38",
+    "Output": "10.60",
+    "County": "g\u00f3rowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "119",
+    "Name of deposit": "\u015aroda Wielkopolska",
+    "State of development": "E",
+    "Resources anticipated economic": "178.80",
+    "Resources economic": "178.77",
+    "Output": "22.60",
+    "County": "\u015bredzki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "120",
+    "Name of deposit": "Tarcha\u0142y (d.g.+cz.s.)",
+    "State of development": "E",
+    "Resources anticipated economic": "1,537.75",
+    "Resources economic": "429.94",
+    "Output": "17.18",
+    "County": "ostrowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "121",
+    "Name of deposit": "Trzebusz",
+    "State of development": "E",
+    "Resources anticipated economic": "15.31",
+    "Resources economic": "15.32",
+    "Output": "2.78",
+    "County": "gryficki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "122",
+    "Name of deposit": "Turkowo",
+    "State of development": "P",
+    "Resources anticipated economic": "50.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "nowotomyski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "123",
+    "Name of deposit": "Ujazd",
+    "State of development": "E",
+    "Resources anticipated economic": "103.64",
+    "Resources economic": "5.96",
+    "Output": "0.51",
+    "County": "grodziski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "124",
+    "Name of deposit": "Unik\u00f3w",
+    "State of development": "P",
+    "Resources anticipated economic": "170.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "sieradzki, \nwieruszowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "125",
+    "Name of deposit": "Wielichowo",
+    "State of development": "E",
+    "Resources anticipated economic": "863.62",
+    "Resources economic": "852.86",
+    "Output": "91.64",
+    "County": "grodziski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "126",
+    "Name of deposit": "Wierzchowice",
+    "State of development": "G",
+    "Resources anticipated economic": "5,728.12",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "milicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "127",
+    "Name of deposit": "Wierzchowice E",
+    "State of development": "Z",
+    "Resources anticipated economic": "14.68",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "milicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "128",
+    "Name of deposit": "Wierzchowice W",
+    "State of development": "Z",
+    "Resources anticipated economic": "37.55",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "milicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "129",
+    "Name of deposit": "Wierzchowo",
+    "State of development": "T",
+    "Resources anticipated economic": "10.78",
+    "Resources economic": "10.69",
+    "Output": "-",
+    "County": "koszali\u0144ski, \nszczecinecki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "130",
+    "Name of deposit": "Wierzowice",
+    "State of development": "E",
+    "Resources anticipated economic": "396.29",
+    "Resources economic": "99.12",
+    "Output": "2.85",
+    "County": "g\u00f3rowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "131",
+    "Name of deposit": "Wiewierz E",
+    "State of development": "E",
+    "Resources anticipated economic": "2.46",
+    "Resources economic": "-",
+    "Output": "3.16",
+    "County": "g\u00f3rowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "132",
+    "Name of deposit": "Wiewierz-element W",
+    "State of development": "E",
+    "Resources anticipated economic": "6.44",
+    "Resources economic": "6.16",
+    "Output": "2.34",
+    "County": "g\u00f3rowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "133",
+    "Name of deposit": "Wilcze-czerw.sp\u0105g.",
+    "State of development": "R",
+    "Resources anticipated economic": "498.73",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "wolszty\u0144ski, \nzielonog\u00f3rski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "134",
+    "Name of deposit": "Wilcze-dolomit g\u0142\u00f3wny",
+    "State of development": "P",
+    "Resources anticipated economic": "285.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "nowosolski, \nwolszty\u0144ski, \nzielonog\u00f3rski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "135",
+    "Name of deposit": "Wilga",
+    "State of development": "Z",
+    "Resources anticipated economic": "-",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "otwocki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "136",
+    "Name of deposit": "Wilk\u00f3w",
+    "State of development": "E",
+    "Resources anticipated economic": "806.24",
+    "Resources economic": "696.51",
+    "Output": "90.78",
+    "County": "g\u0142ogowski, \nwschowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "137",
+    "Name of deposit": "Winna G\u00f3ra",
+    "State of development": "E",
+    "Resources anticipated economic": "146.09",
+    "Resources economic": "142.19",
+    "Output": "20.29",
+    "County": "\u015bredzki, wrzesi\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "138",
+    "Name of deposit": "Wrzosowo",
+    "State of development": "P",
+    "Resources anticipated economic": "600.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "kamie\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "140",
+    "Name of deposit": "Wysocko Ma\u0142e E",
+    "State of development": "E",
+    "Resources anticipated economic": "52.16",
+    "Resources economic": "51.95",
+    "Output": "4.85",
+    "County": "ostrowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "141",
+    "Name of deposit": "Wysoka Kamie\u0144ska",
+    "State of development": "E",
+    "Resources anticipated economic": "3.29",
+    "Resources economic": "1.82",
+    "Output": "0.30",
+    "County": "goleniowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "142",
+    "Name of deposit": "Zakrzewo",
+    "State of development": "P",
+    "Resources anticipated economic": "210.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "rawicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "143",
+    "Name of deposit": "Za\u0142\u0119cze",
+    "State of development": "E",
+    "Resources anticipated economic": "465.58",
+    "Resources economic": "87.83",
+    "Output": "120.50",
+    "County": "g\u00f3rowski, rawicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "144",
+    "Name of deposit": "Zaniemy\u015bl",
+    "State of development": "T",
+    "Resources anticipated economic": "281.19",
+    "Resources economic": "279.84",
+    "Output": "-",
+    "County": "\u015bredzki, \u015bremski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "145",
+    "Name of deposit": "Zb\u0105szy\u0144",
+    "State of development": "P",
+    "Resources anticipated economic": "2,400.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "nowotomyski, \nwolszty\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "146",
+    "Name of deposit": "Zielin",
+    "State of development": "E",
+    "Resources anticipated economic": "12.34",
+    "Resources economic": "12.43",
+    "Output": "13.58",
+    "County": "gryfi\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "147",
+    "Name of deposit": "\u015bakowo",
+    "State of development": "R",
+    "Resources anticipated economic": "2,150.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "leszczy\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "148",
+    "Name of deposit": "\u015barnowiec",
+    "State of development": "E",
+    "Resources anticipated economic": "6.96",
+    "Resources economic": "1.39",
+    "Output": "0.07",
+    "County": "pucki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "149",
+    "Name of deposit": "\u015barnowiec W",
+    "State of development": "E",
+    "Resources anticipated economic": "2.35",
+    "Resources economic": "1.50",
+    "Output": "0.49",
+    "County": "pucki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "150",
+    "Name of deposit": "\u015buchl\u00f3w",
+    "State of development": "E",
+    "Resources anticipated economic": "1,105.41",
+    "Resources economic": "581.29",
+    "Output": "228.98",
+    "County": "g\u00f3rowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "1",
+    "Name of deposit": "Batycze",
+    "State of development": "B",
+    "Resources anticipated economic": "11.81",
+    "Resources economic": "-",
+    "Output": "2.11",
+    "County": "przemyski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "2",
+    "Name of deposit": "Bia\u0142oboki",
+    "State of development": "E",
+    "Resources anticipated economic": "47.98",
+    "Resources economic": "31.98",
+    "Output": "0.02",
+    "County": "przeworski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "3",
+    "Name of deposit": "Biszcza",
+    "State of development": "E",
+    "Resources anticipated economic": "123.35",
+    "Resources economic": "90.28",
+    "Output": "8.03",
+    "County": "bi\u0142gorajski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "4",
+    "Name of deposit": "Blizna-Ocieka",
+    "State of development": "E",
+    "Resources anticipated economic": "119.95",
+    "Resources economic": "33.19",
+    "Output": "0.05",
+    "County": "mielecki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "5",
+    "Name of deposit": "Brzezowiec I,II",
+    "State of development": "E",
+    "Resources anticipated economic": "112.67",
+    "Resources economic": "44.12",
+    "Output": "0.05",
+    "County": "brzeski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "6",
+    "Name of deposit": "Brzez\u00f3wka",
+    "State of development": "E",
+    "Resources anticipated economic": "16.32",
+    "Resources economic": "0.86",
+    "Output": "0.26",
+    "County": "ropczycko-\ns\u0119dziszowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "7",
+    "Name of deposit": "Brze\u017anica",
+    "State of development": "G",
+    "Resources anticipated economic": "46.34",
+    "Resources economic": "46.03",
+    "Output": "-",
+    "County": "d\u0119bicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "8",
+    "Name of deposit": "Brz\u00f3za Kr\u00f3lewska",
+    "State of development": "R",
+    "Resources anticipated economic": "24.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "le\u015cajski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "9",
+    "Name of deposit": "Buszkowiczki (Przemy\u015bl)",
+    "State of development": "E",
+    "Resources anticipated economic": "165.01",
+    "Resources economic": "42.11",
+    "Output": "9.31",
+    "County": "przemyski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "10",
+    "Name of deposit": "Cha\u0142upki D\u0119bnia\u0144skie",
+    "State of development": "E",
+    "Resources anticipated economic": "132.85",
+    "Resources economic": "26.03",
+    "Output": "12.70",
+    "County": "le\u015cajski, przeworski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "11",
+    "Name of deposit": "Chotyniec",
+    "State of development": "P",
+    "Resources anticipated economic": "40.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "jaros\u0142awski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "12",
+    "Name of deposit": "Cierpisz",
+    "State of development": "E",
+    "Resources anticipated economic": "717.10",
+    "Resources economic": "280.43",
+    "Output": "15.84",
+    "County": "ropczycko-\ns\u0119dziszowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "13",
+    "Name of deposit": "Czarna S\u0119dziszowska",
+    "State of development": "T",
+    "Resources anticipated economic": "32.94",
+    "Resources economic": "12.52",
+    "Output": "-",
+    "County": "ropczycko-\ns\u0119dziszowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "14",
+    "Name of deposit": "D\u0105br\u00f3wka",
+    "State of development": "E",
+    "Resources anticipated economic": "27.20",
+    "Resources economic": "6.17",
+    "Output": "3.65",
+    "County": "boche\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "15",
+    "Name of deposit": "D\u0119bowiec \u015al\u0105ski",
+    "State of development": "E",
+    "Resources anticipated economic": "34.51",
+    "Resources economic": "4.97",
+    "Output": "1.61",
+    "County": "cieszy\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "16",
+    "Name of deposit": "Dzik\u00f3w",
+    "State of development": "E",
+    "Resources anticipated economic": "838.10",
+    "Resources economic": "222.02",
+    "Output": "68.77",
+    "County": "lubaczowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "17",
+    "Name of deposit": "G\u00f3ra Ropczycka",
+    "State of development": "E",
+    "Resources anticipated economic": "125.85",
+    "Resources economic": "89.13",
+    "Output": "3.90",
+    "County": "ropczycko-\ns\u0119dziszowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "18",
+    "Name of deposit": "Grabina-Nieznanowice",
+    "State of development": "E",
+    "Resources anticipated economic": "328.00",
+    "Resources economic": "16.22",
+    "Output": "1.96",
+    "County": "boche\u0144ski, wielicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "19",
+    "Name of deposit": "Grabina-Nieznanowice S",
+    "State of development": "E",
+    "Resources anticipated economic": "205.74",
+    "Resources economic": "110.54",
+    "Output": "0.10",
+    "County": "boche\u0144ski, wielicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "20",
+    "Name of deposit": "Gr\u0105dy Boche\u0144skie",
+    "State of development": "Z",
+    "Resources anticipated economic": "39.17",
+    "Resources economic": "14.05",
+    "Output": "-",
+    "County": "boche\u0144ski, brzeski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "21",
+    "Name of deposit": "Grobla",
+    "State of development": "E",
+    "Resources anticipated economic": "54.24",
+    "Resources economic": "1.08",
+    "Output": "0.25",
+    "County": "boche\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "22",
+    "Name of deposit": "Grodzisko Dolne",
+    "State of development": "E",
+    "Resources anticipated economic": "115.35",
+    "Resources economic": "66.78",
+    "Output": "3.66",
+    "County": "le\u015cajski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "23",
+    "Name of deposit": "Grusz\u00f3w",
+    "State of development": "Z",
+    "Resources anticipated economic": "34.61",
+    "Resources economic": "2.72",
+    "Output": "-",
+    "County": "d\u0105browski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "24",
+    "Name of deposit": "Gubernia",
+    "State of development": "E",
+    "Resources anticipated economic": "1.85",
+    "Resources economic": "-",
+    "Output": "0.55",
+    "County": "jaros\u0142awski, \nprzemyski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "25",
+    "Name of deposit": "Hus\u00f3w",
+    "State of development": "G",
+    "Resources anticipated economic": "372.88",
+    "Resources economic": "372.88",
+    "Output": "-",
+    "County": "\u0142a\u0144cucki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "26",
+    "Name of deposit": "Hus\u00f3w-Albigowa-Krasne",
+    "State of development": "E",
+    "Resources anticipated economic": "596.33",
+    "Resources economic": "60.77",
+    "Output": "19.01",
+    "County": "\u0142a\u0144cucki, m.Rzesz\u00f3w, \nprzeworski, \nrzeszowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "27",
+    "Name of deposit": "Jadowniki",
+    "State of development": "P",
+    "Resources anticipated economic": "330.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "brzeski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "28",
+    "Name of deposit": "Jaros\u0142aw",
+    "State of development": "E",
+    "Resources anticipated economic": "835.45",
+    "Resources economic": "88.74",
+    "Output": "10.26",
+    "County": "jaros\u0142awski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "29",
+    "Name of deposit": "Jasionka",
+    "State of development": "E",
+    "Resources anticipated economic": "1,114.14",
+    "Resources economic": "633.59",
+    "Output": "45.74",
+    "County": "rzeszowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "30",
+    "Name of deposit": "Jastrz\u0105bka Stara",
+    "State of development": "E",
+    "Resources anticipated economic": "0.85",
+    "Resources economic": "0.55",
+    "Output": "0.06",
+    "County": "d\u0119bicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "31",
+    "Name of deposit": "Ja\u015bniny P\u00f3\u0142noc",
+    "State of development": "E",
+    "Resources anticipated economic": "215.69",
+    "Resources economic": "34.60",
+    "Output": "10.69",
+    "County": "tarnowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "32",
+    "Name of deposit": "Je\u015cowe NW",
+    "State of development": "E",
+    "Resources anticipated economic": "14.59",
+    "Resources economic": "10.90",
+    "Output": "0.88",
+    "County": "ni\u015ca\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "33",
+    "Name of deposit": "Jod\u0142\u00f3wka",
+    "State of development": "E",
+    "Resources anticipated economic": "982.50",
+    "Resources economic": "71.71",
+    "Output": "6.87",
+    "County": "jaros\u0142awski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "34",
+    "Name of deposit": "Kaczyce I",
+    "State of development": "P",
+    "Resources anticipated economic": "31.50",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "cieszy\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "35",
+    "Name of deposit": "Ka\u0144czuga",
+    "State of development": "E",
+    "Resources anticipated economic": "49.15",
+    "Resources economic": "5.92",
+    "Output": "5.20",
+    "County": "przeworski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "36",
+    "Name of deposit": "K\u0105ty Rakszawskie",
+    "State of development": "E",
+    "Resources anticipated economic": "17.43",
+    "Resources economic": "8.62",
+    "Output": "1.01",
+    "County": "\u0142a\u0144cucki, rzeszowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "38",
+    "Name of deposit": "Korzeni\u00f3w",
+    "State of development": "Z",
+    "Resources anticipated economic": "-",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "d\u0119bicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "39",
+    "Name of deposit": "Korzeni\u00f3w (gaz)",
+    "State of development": "Z",
+    "Resources anticipated economic": "antic. \nsubecon.",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "d\u0119bicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "40",
+    "Name of deposit": "Kowale",
+    "State of development": "E",
+    "Resources anticipated economic": "86.42",
+    "Resources economic": "30.33",
+    "Output": "2.00",
+    "County": "bielski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "41",
+    "Name of deposit": "Ksi\u0119\u015cpol",
+    "State of development": "E",
+    "Resources anticipated economic": "226.24",
+    "Resources economic": "15.09",
+    "Output": "2.10",
+    "County": "bi\u0142gorajski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "42",
+    "Name of deposit": "Kupno",
+    "State of development": "E",
+    "Resources anticipated economic": "109.76",
+    "Resources economic": "62.87",
+    "Output": "6.42",
+    "County": "kolbuszowski, \nrzeszowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "43",
+    "Name of deposit": "Kury\u0142\u00f3wka",
+    "State of development": "E",
+    "Resources anticipated economic": "208.94",
+    "Resources economic": "68.69",
+    "Output": "27.83",
+    "County": "le\u015cajski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "44",
+    "Name of deposit": "Lipnica-Dzikowiec",
+    "State of development": "R",
+    "Resources anticipated economic": "154.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "kolbuszowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "45",
+    "Name of deposit": "Lubacz\u00f3w",
+    "State of development": "E",
+    "Resources anticipated economic": "323.34",
+    "Resources economic": "59.98",
+    "Output": "31.61",
+    "County": "lubaczowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "46",
+    "Name of deposit": "Lubliniec - Cieszan\u00f3w",
+    "State of development": "E",
+    "Resources anticipated economic": "188.85",
+    "Resources economic": "124.75",
+    "Output": "12.87",
+    "County": "bi\u0142gorajski, \nlubaczowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "47",
+    "Name of deposit": "\u0141apan\u00f3w",
+    "State of development": "E",
+    "Resources anticipated economic": "306.18",
+    "Resources economic": "307.28",
+    "Output": "17.92",
+    "County": "boche\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "48",
+    "Name of deposit": "\u0141apczyca",
+    "State of development": "E",
+    "Resources anticipated economic": "antic. \nsubecon.",
+    "Resources economic": "-",
+    "Output": "0.11",
+    "County": "boche\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "49",
+    "Name of deposit": "\u0141azy",
+    "State of development": "Z",
+    "Resources anticipated economic": "13.40",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "brzeski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "50",
+    "Name of deposit": "\u0141\u0105kta",
+    "State of development": "E",
+    "Resources anticipated economic": "211.72",
+    "Resources economic": "14.83",
+    "Output": "3.02",
+    "County": "boche\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "51",
+    "Name of deposit": "\u0141\u0119kawica",
+    "State of development": "E",
+    "Resources anticipated economic": "59.88",
+    "Resources economic": "55.91",
+    "Output": "11.42",
+    "County": "tarnowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "52",
+    "Name of deposit": "\u0141\u0119towice-Bogumi\u0142owice",
+    "State of development": "E",
+    "Resources anticipated economic": "109.39",
+    "Resources economic": "19.67",
+    "Output": "1.49",
+    "County": "brzeski, tarnowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "53",
+    "Name of deposit": "\u0141ukowa",
+    "State of development": "E",
+    "Resources anticipated economic": "274.90",
+    "Resources economic": "233.26",
+    "Output": "16.13",
+    "County": "bi\u0142gorajski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "54",
+    "Name of deposit": "Markowice",
+    "State of development": "R",
+    "Resources anticipated economic": "74.00",
+    "Resources economic": "68.24",
+    "Output": "-",
+    "County": "bi\u0142gorajski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "55",
+    "Name of deposit": "Mirocin",
+    "State of development": "E",
+    "Resources anticipated economic": "473.89",
+    "Resources economic": "123.18",
+    "Output": "47.90",
+    "County": "jaros\u0142awski, \nprzeworski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "56",
+    "Name of deposit": "Mo\u0142odycz",
+    "State of development": "E",
+    "Resources anticipated economic": "92.70",
+    "Resources economic": "62.87",
+    "Output": "5.89",
+    "County": "jaros\u0142awski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "57",
+    "Name of deposit": "Morawsko",
+    "State of development": "E",
+    "Resources anticipated economic": "195.56",
+    "Resources economic": "35.58",
+    "Output": "4.78",
+    "County": "jaros\u0142awski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "58",
+    "Name of deposit": "Niwiska",
+    "State of development": "Z",
+    "Resources anticipated economic": "antic. \nsubecon.",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "kolbuszowski, \nmielecki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "59",
+    "Name of deposit": "Nos\u00f3wka",
+    "State of development": "E",
+    "Resources anticipated economic": "5.61",
+    "Resources economic": "2.90",
+    "Output": "0.87",
+    "County": "rzeszowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "60",
+    "Name of deposit": "Nos\u00f3wka (gaz)",
+    "State of development": "E",
+    "Resources anticipated economic": "394.18",
+    "Resources economic": "166.09",
+    "Output": "2.30",
+    "County": "ropczycko-\ns\u0119dziszowski, \nrzeszowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "61",
+    "Name of deposit": "Nowosielec",
+    "State of development": "T",
+    "Resources anticipated economic": "75.18",
+    "Resources economic": "31.30",
+    "Output": "-",
+    "County": "ni\u015ca\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "62",
+    "Name of deposit": "Palik\u00f3wka",
+    "State of development": "E",
+    "Resources anticipated economic": "654.99",
+    "Resources economic": "158.38",
+    "Output": "13.92",
+    "County": "\u0142a\u0144cucki, rzeszowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "63",
+    "Name of deposit": "Pilzno Po\u0142udnie",
+    "State of development": "E",
+    "Resources anticipated economic": "725.86",
+    "Resources economic": "257.40",
+    "Output": "27.83",
+    "County": "d\u0119bicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "64",
+    "Name of deposit": "Podole",
+    "State of development": "E",
+    "Resources anticipated economic": "9.68",
+    "Resources economic": "8.59",
+    "Output": "0.46",
+    "County": "d\u0119bicki, mielecki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "65",
+    "Name of deposit": "Pog\u00f3rska Wola",
+    "State of development": "Z",
+    "Resources anticipated economic": "antic. \nsubecon.",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "d\u0119bicki, tarnowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "66",
+    "Name of deposit": "Pog\u00f3rz",
+    "State of development": "E",
+    "Resources anticipated economic": "12.09",
+    "Resources economic": "12.01",
+    "Output": "0.03",
+    "County": "cieszy\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "67",
+    "Name of deposit": "Pogwizd\u00f3w",
+    "State of development": "E",
+    "Resources anticipated economic": "79.29",
+    "Resources economic": "29.29",
+    "Output": "2.62",
+    "County": "\u0142a\u0144cucki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "68",
+    "Name of deposit": "Potok G\u00f3rny",
+    "State of development": "B",
+    "Resources anticipated economic": "36.06",
+    "Resources economic": "-",
+    "Output": "0.77",
+    "County": "bi\u0142gorajski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "69",
+    "Name of deposit": "Pruchnik-Pantalowice",
+    "State of development": "E",
+    "Resources anticipated economic": "446.76",
+    "Resources economic": "101.51",
+    "Output": "37.93",
+    "County": "jaros\u0142awski, \nprzeworski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "70",
+    "Name of deposit": "Przemy\u015bl",
+    "State of development": "E",
+    "Resources anticipated economic": "8,698.07",
+    "Resources economic": "1,319.49",
+    "Output": "489.09",
+    "County": "jaros\u0142awski, \nprzemyski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "71",
+    "Name of deposit": "Przeworsk",
+    "State of development": "E",
+    "Resources anticipated economic": "182.62",
+    "Resources economic": "5.53",
+    "Output": "1.38",
+    "County": "przeworski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "72",
+    "Name of deposit": "Raciborsko",
+    "State of development": "E",
+    "Resources anticipated economic": "431.65",
+    "Resources economic": "16.31",
+    "Output": "0.22",
+    "County": "wielicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "73",
+    "Name of deposit": "Rajsko",
+    "State of development": "E",
+    "Resources anticipated economic": "135.65",
+    "Resources economic": "47.65",
+    "Output": "6.72",
+    "County": "brzeski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "74",
+    "Name of deposit": "R\u0105czyna",
+    "State of development": "E",
+    "Resources anticipated economic": "228.54",
+    "Resources economic": "120.47",
+    "Output": "0.07",
+    "County": "jaros\u0142awski, \nprzeworski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "75",
+    "Name of deposit": "Rokietnica",
+    "State of development": "P",
+    "Resources anticipated economic": "120.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "jaros\u0142awski, \nprzemyski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "76",
+    "Name of deposit": "Rudka",
+    "State of development": "E",
+    "Resources anticipated economic": "150.89",
+    "Resources economic": "54.63",
+    "Output": "12.92",
+    "County": "le\u015cajski, przeworski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "77",
+    "Name of deposit": "Rudo\u0142owice",
+    "State of development": "P",
+    "Resources anticipated economic": "400.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "przeworski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "78",
+    "Name of deposit": "Rylowa",
+    "State of development": "E",
+    "Resources anticipated economic": "450.74",
+    "Resources economic": "147.36",
+    "Output": "27.80",
+    "County": "brzeski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "79",
+    "Name of deposit": "Rysie",
+    "State of development": "E",
+    "Resources anticipated economic": "15.45",
+    "Resources economic": "1.21",
+    "Output": "0.51",
+    "County": "boche\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "80",
+    "Name of deposit": "Sarzyna",
+    "State of development": "E",
+    "Resources anticipated economic": "43.17",
+    "Resources economic": "27.15",
+    "Output": "1.52",
+    "County": "le\u015cajski, ni\u015ca\u0144ski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "81",
+    "Name of deposit": "Smolarzyny",
+    "State of development": "E",
+    "Resources anticipated economic": "174.84",
+    "Resources economic": "38.08",
+    "Output": "2.55",
+    "County": "\u0142a\u0144cucki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "82",
+    "Name of deposit": "Soko\u0142\u00f3w",
+    "State of development": "P",
+    "Resources anticipated economic": "26.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "kolbuszowski, \nrzeszowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "84",
+    "Name of deposit": "Swarz\u00f3w",
+    "State of development": "G",
+    "Resources anticipated economic": "28.80",
+    "Resources economic": "28.80",
+    "Output": "-",
+    "County": "d\u0105browski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "85",
+    "Name of deposit": "Szczepan\u00f3w",
+    "State of development": "E",
+    "Resources anticipated economic": "197.30",
+    "Resources economic": "106.96",
+    "Output": "9.66",
+    "County": "brzeski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "86",
+    "Name of deposit": "Tarnogr\u00f3d-Wola R\u00f3\u015caniecka",
+    "State of development": "E",
+    "Resources anticipated economic": "219.83",
+    "Resources economic": "68.77",
+    "Output": "24.40",
+    "County": "bi\u0142gorajski, \nprzeworski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "87",
+    "Name of deposit": "Tarn\u00f3w (jura)",
+    "State of development": "E",
+    "Resources anticipated economic": "264.95",
+    "Resources economic": "200.75",
+    "Output": "11.66",
+    "County": "m.Tarn\u00f3w, tarnowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "88",
+    "Name of deposit": "Tarn\u00f3w (miocen)",
+    "State of development": "E",
+    "Resources anticipated economic": "881.33",
+    "Resources economic": "733.94",
+    "Output": "28.36",
+    "County": "m.Tarn\u00f3w, tarnowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "89",
+    "Name of deposit": "Terliczka",
+    "State of development": "E",
+    "Resources anticipated economic": "472.40",
+    "Resources economic": "86.43",
+    "Output": "2.96",
+    "County": "rzeszowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "90",
+    "Name of deposit": "Try\u0144cza",
+    "State of development": "P",
+    "Resources anticipated economic": "20.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "przeworski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "91",
+    "Name of deposit": "Trzebownisko",
+    "State of development": "E",
+    "Resources anticipated economic": "337.53",
+    "Resources economic": "151.68",
+    "Output": "0.77",
+    "County": "rzeszowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "92",
+    "Name of deposit": "Uszkowce",
+    "State of development": "Z",
+    "Resources anticipated economic": "-",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "lubaczowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "93",
+    "Name of deposit": "Wierzchos\u0142awice",
+    "State of development": "E",
+    "Resources anticipated economic": "35.09",
+    "Resources economic": "0.75",
+    "Output": "0.50",
+    "County": "tarnowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "94",
+    "Name of deposit": "Wola Obsza\u0144ska",
+    "State of development": "E",
+    "Resources anticipated economic": "247.89",
+    "Resources economic": "172.36",
+    "Output": "24.27",
+    "County": "bi\u0142gorajski, \nlubaczowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "95",
+    "Name of deposit": "Wola Rokietnicka",
+    "State of development": "E",
+    "Resources anticipated economic": "185.42",
+    "Resources economic": "53.57",
+    "Output": "29.14",
+    "County": "jaros\u0142awski, \nprzemyski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "96",
+    "Name of deposit": "Wola Zarczycka",
+    "State of development": "P",
+    "Resources anticipated economic": "16.00",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "le\u015cajski, rzeszowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "97",
+    "Name of deposit": "Wygoda",
+    "State of development": "E",
+    "Resources anticipated economic": "9.27",
+    "Resources economic": "-",
+    "Output": "0.58",
+    "County": "d\u0119bicki",
+    "Country": "Poland"
+  },
+  {
+    "Number": "98",
+    "Name of deposit": "Zagorzyce",
+    "State of development": "E",
+    "Resources anticipated economic": "112.62",
+    "Resources economic": "38.60",
+    "Output": "11.24",
+    "County": "ropczycko-\ns\u0119dziszowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "99",
+    "Name of deposit": "Zalesie",
+    "State of development": "E",
+    "Resources anticipated economic": "2,086.09",
+    "Resources economic": "376.35",
+    "Output": "153.29",
+    "County": "m.Rzesz\u00f3w",
+    "Country": "Poland"
+  },
+  {
+    "Number": "100",
+    "Name of deposit": "Za\u0142\u0119\u015ce",
+    "State of development": "E",
+    "Resources anticipated economic": "139.15",
+    "Resources economic": "121.54",
+    "Output": "13.16",
+    "County": "m.Rzesz\u00f3w, \nrzeszowski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "101",
+    "Name of deposit": "\u015bo\u0142ynia-Le\u015cajsk",
+    "State of development": "E",
+    "Resources anticipated economic": "576.75",
+    "Resources economic": "81.74",
+    "Output": "33.19",
+    "County": "le\u015cajski, przeworski",
+    "Country": "Poland"
+  },
+  {
+    "Number": "102",
+    "Name of deposit": "\u015bukowice",
+    "State of development": "T",
+    "Resources anticipated economic": "96.72",
+    "Resources economic": "-",
+    "Output": "-",
+    "County": "d\u0119bicki, tarnowski",
+    "Country": "Poland"
+  }
+]
