@@ -3,7 +3,7 @@ import unittest
 from fossilregistryextractor.ghana_converter import GhanaConverter
 
 
-class TestGhanaConversion(unittest.TestCase):
+class TestGhanaConverter(unittest.TestCase):
     # Note the typo "Non-Asssociated" in this test table from the PDF; also the inconsistent whitespace
 
     example_table = [['2018 OCTP PRODUCTION', None, None, None, None, None, None, None],
@@ -24,12 +24,12 @@ class TestGhanaConversion(unittest.TestCase):
                      ['December, 2018', '956,977.75', '1,504.18', '2,162.00', '1,198.70', '360.28', '9.58', '2,045.91']]
 
     def test_process(self):
-        json_output = GhanaConverter().process_file("pdfs/2018-OCTP-Productions.pdf")
+        json_output = GhanaConverter().process_file("pdfs/ghana/2018-OCTP-Productions.pdf")
         self.assertIn('"Period": "2018-', json_output, "Could not find Period")
         self.assertIn('"Oil Production (bbl)": 1098754.5', json_output, "Could not find Oil Production with numeric value")
 
     def test_extraction(self):
-        table = GhanaConverter._extract_table("pdfs/2018-OCTP-Productions.pdf")
+        table = GhanaConverter._extract_table("pdfs/ghana/2018-OCTP-Productions.pdf")
         self.assertEqual('2018 OCTP PRODUCTION', table[0][0])
         self.assertEqual('Period', table[1][0])
         self.assertEqual('2,045.91', table[-1][-1])

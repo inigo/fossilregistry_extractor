@@ -5,16 +5,12 @@ import sys
 import pandas as pd
 import pdfplumber as pdfplumber
 
+from base_converter import BaseConverter
+
 
 # Extract a table from the first page of a PDF, formatted as the Ghana National Petroleum Corporation files are
 # See test_ghana_conversion.py for an example of the table format
-class GhanaConverter:
-    def process_and_save_file(self, filename):
-        table_as_json_string = self.process_file(filename)
-        output_filename = filename.replace(".pdf", ".json")
-        with open(output_filename, "w") as outfile:
-            outfile.write(table_as_json_string)
-
+class GhanaConverter(BaseConverter):
     def process_file(self, filename):
         table = self._extract_table(filename)
         table_as_dataframe = self._convert_table(table)
