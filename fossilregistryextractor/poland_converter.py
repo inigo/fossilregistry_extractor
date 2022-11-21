@@ -5,7 +5,7 @@ import re
 import pandas as pd
 import pdfplumber as pdfplumber
 
-from fossilregistryextractor.base_converter import BaseConverter
+from .base_converter import BaseConverter
 
 
 # Extract a long table spread across every page of a PDF, formatted as the Poland natural gas files
