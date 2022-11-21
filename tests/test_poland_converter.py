@@ -60,7 +60,8 @@ class TestPolandConverter(unittest.TestCase):
         self.assertEqual("Covered by Detailed Exploration", df["State of development"][0])
         self.assertEqual("Poland", df["Country"][0])
         self.assertEqual("B 21", df["Name of field"][0])
-        self.assertEqual("Bałtyk (off shore)", df["County"][0])
+        self.assertEqual(["Bałtyk (off shore)"], df["County"][0])
+        self.assertEqual(["brzozowski", "sanocki"], df["County"][15])
         self.assertEqual([{'is_subeconomic': False, 'value': 275.0}], df["Resources anticipated C"][0])
         self.assertEqual([{'is_subeconomic': True, 'value': 6.26}], df["Resources anticipated Total"][5])
 

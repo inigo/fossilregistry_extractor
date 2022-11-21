@@ -32,11 +32,16 @@ class PolandConverter(BaseConverter):
         df["Country"] = df["Country"].astype("string")
         # PDF has values like Z, T, K to indicate status
         df["State of development"] = df["State of development"].apply(self._lookup_status).astype("string")
+        df["County"] = df["County"].apply(self._convert_county)
         # "Numeric" values are actually sometimes multiple, and have the letter "s" to indicate subeconomic
         cols_to_convert = list(filter(lambda s: "Resources" in s or "Output" in s, df.columns))
         for c in cols_to_convert:
             df[c] = df[c].apply(self._convert_value)
         return df
+
+    @staticmethod
+    def _convert_county(counties):
+        return list(map(lambda s: s.strip(), counties.replace("\n", "").replace("-", "").split(",")))
 
     @staticmethod
     def _convert_value(value):
