@@ -43,7 +43,7 @@ class TestPolandConverter(unittest.TestCase):
     def test_choose_headers_2015(self):
         first_row = self.pc._filter_to_data(self.table2015)[0]
         header = self.pc._choose_header(first_row)
-        expected_header = ["Number", "Name of deposit", "State of development", "Resources anticipated economic", "Resources economic", "Output", "County"]
+        expected_header = ["Number", "Name of field", "State of development", "Resources anticipated economic", "Resources economic", "Output", "County"]
         self.assertEqual(expected_header, header)
 
     def test_choose_headers_2020(self):
@@ -61,14 +61,24 @@ class TestPolandConverter(unittest.TestCase):
         self.assertEqual("Poland", df["Country"][0])
         self.assertEqual("B 21", df["Name of field"][0])
         self.assertEqual("Bałtyk (off shore)", df["County"][0])
-        self.assertEqual("275.00", df["Resources anticipated C"][0])
-        self.assertEqual("6.26 s", df["Resources anticipated Total"][5])
+        self.assertEqual([{'is_subeconomic': False, 'value': 275.0}], df["Resources anticipated C"][0])
+        self.assertEqual([{'is_subeconomic': True, 'value': 6.26}], df["Resources anticipated Total"][5])
 
-        self.assertEqual("35.88 \n48.06 s", df["Resources anticipated Total"][16])
+        self.assertEqual([{'is_subeconomic': False, 'value': 35.88}, {'is_subeconomic': True, 'value': 48.06}], df["Resources anticipated Total"][16])
+
+    def test_convert_value(self):
+        self.assertEqual([{"value": 123, "is_subeconomic": False}], self.pc._convert_value("123"))
+        self.assertEqual([{"value": 123, "is_subeconomic": True}], self.pc._convert_value("123s"))
+        self.assertEqual([{"value": None, "is_subeconomic": False}], self.pc._convert_value("-"))
+        self.assertEqual([{"value": 123, "is_subeconomic": True}, {"value": 4567.1, "is_subeconomic": False}],
+                         self.pc._convert_value("123 s\n4,567.1"))
+        self.assertEqual([{"value": None, "is_subeconomic": True}], self.pc._convert_value("antic.\nsubecon."))
 
     def test_process(self):
         json_output = self.pc.process_file("pdfs/poland/natural_gas_2020.pdf")
         self.assertIn('"Name of field": "B 21"', json_output, "Could not find expected name of field")
+        json_output = self.pc.process_file("pdfs/poland/natural_gas_2015.pdf")
+        self.assertIn('"Name of field": "B 3"', json_output, "Could not find expected name of field")
 
 
 if __name__ == '__main__':

@@ -1,5 +1,6 @@
 import json
 import sys
+import re
 
 import pandas as pd
 import pdfplumber as pdfplumber
@@ -13,6 +14,7 @@ class PolandConverter(BaseConverter):
     def process_file(self, filename):
         pdf = pdfplumber.open(filename)
         dataframes = [self.to_dataframe(p) for p in pdf.pages]
+        pdf.close()
         combined_dataframe = pd.concat(dataframes)
         table_as_json_obj = self._to_json(combined_dataframe)
         return json.dumps(table_as_json_obj)
@@ -28,16 +30,36 @@ class PolandConverter(BaseConverter):
         df = pd.DataFrame(data_rows, columns=header_row)
         df["Country"] = "Poland"
         df["Country"] = df["Country"].astype("string")
-        df["State of development"] = df["State of development"].apply(self._lookup_status)
-
+        # PDF has values like Z, T, K to indicate status
+        df["State of development"] = df["State of development"].apply(self._lookup_status).astype("string")
+        # "Numeric" values are actually sometimes multiple, and have the letter "s" to indicate subeconomic
+        cols_to_convert = list(filter(lambda s: "Resources" in s or "Output" in s, df.columns))
+        for c in cols_to_convert:
+            df[c] = df[c].apply(self._convert_value)
         return df
+
+    @staticmethod
+    def _convert_value(value):
+        def try_to_float(n):
+            try:
+                return float(n)
+            except ValueError:
+                return None
+
+        def convert_fn(val):
+            n_as_str = re.sub(r"[^\d.-]", "", val)
+            n = try_to_float(n_as_str)
+            is_subeconomic = "s" in val
+            return {"value": n, "is_subeconomic": is_subeconomic}
+        values = filter(lambda s: re.search(r"[\ds-]", s), value.split("\n"))
+        return list(map(convert_fn, values))
 
     # Identify which set of headers is being used - it is hard to retrieve these automatically because of the
     # various merged columns
     @staticmethod
     def _choose_header(first_data_row):
         if len(first_data_row) == 7:
-            return ["Number", "Name of deposit", "State of development", "Resources anticipated economic", "Resources economic", "Output", "County"]
+            return ["Number", "Name of field", "State of development", "Resources anticipated economic", "Resources economic", "Output", "County"]
         elif len(first_data_row) == 9:
             return ["Number", "Name of field", "State of development", "Resources anticipated Total",
                     "Resources anticipated A+B", "Resources anticipated C", "Resources economic", "Output", "County"]
