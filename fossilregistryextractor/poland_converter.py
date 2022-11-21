@@ -28,6 +28,7 @@ class PolandConverter(BaseConverter):
         df = pd.DataFrame(data_rows, columns=header_row)
         df["Country"] = "Poland"
         df["Country"] = df["Country"].astype("string")
+        df["State of development"] = df["State of development"].apply(self._lookup_status)
 
         return df
 
@@ -42,6 +43,21 @@ class PolandConverter(BaseConverter):
                     "Resources anticipated A+B", "Resources anticipated C", "Resources economic", "Output", "County"]
         else:
             raise Exception(f"Unexpected number of columns {len(first_data_row)} - check definition of headers and adjust")
+
+    StatusLookup = {
+        "B": "Building Mine or Prepared or Trial",  # for solid minerals - mine in a building process, for fuels - prepared for the exploitation or a trial period of the exploitation
+        "E": "Exploited",  # exploited
+        "G": "Underground Natural Gas Storage",  # underground natural gas storage facilities
+        "M": "Crossed Out Of Annual Report",  # deposit crossed out of the annual report of mineral resources during an analyzed period
+        "P": "Covered By Preliminary Exploration",  # deposit covered by the preliminary exploration (in C2+D category, for fuels – in C category)
+        "R": "Covered by Detailed Exploration",  # deposit covered by the detailed exploration (in A+B+C1 category, for fuels – in A+B category)
+        "Z": "Abandoned",  # abandoned deposit
+        "T": "Exploited Temporarily",  # deposit exploited temporarily
+        "K": "Changed Raw Material",  # change of the raw material in a deposit
+    }
+
+    def _lookup_status(self, status_code):
+        return self.StatusLookup[status_code]
 
     @staticmethod
     def _filter_to_data(table):

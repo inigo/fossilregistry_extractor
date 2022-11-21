@@ -1,4 +1,5 @@
 import unittest
+import pdfplumber as pdfplumber
 
 from fossilregistryextractor.poland_converter import PolandConverter
 
@@ -51,6 +52,19 @@ class TestPolandConverter(unittest.TestCase):
         expected_header = ["Number", "Name of field", "State of development", "Resources anticipated Total",
                            "Resources anticipated A+B", "Resources anticipated C", "Resources economic", "Output", "County"]
         self.assertEqual(expected_header, header)
+
+    def test_dataframe(self):
+        pdf = pdfplumber.open("pdfs/poland/natural_gas_2020.pdf")
+        df = PolandConverter().to_dataframe(pdf.pages[0])
+        pdf.close()
+        self.assertEqual("Covered by Detailed Exploration", df["State of development"][0])
+        self.assertEqual("Poland", df["Country"][0])
+        self.assertEqual("B 21", df["Name of field"][0])
+        self.assertEqual("Bałtyk (off shore)", df["County"][0])
+        self.assertEqual("275.00", df["Resources anticipated C"][0])
+        self.assertEqual("6.26 s", df["Resources anticipated Total"][5])
+
+        self.assertEqual("35.88 \n48.06 s", df["Resources anticipated Total"][16])
 
     def test_process(self):
         json_output = self.pc.process_file("pdfs/poland/natural_gas_2020.pdf")
