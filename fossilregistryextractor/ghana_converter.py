@@ -5,7 +5,7 @@ import sys
 import pandas as pd
 import pdfplumber as pdfplumber
 
-from base_converter import BaseConverter
+from fossilregistryextractor.base_converter import BaseConverter
 
 
 # Extract a table from the first page of a PDF, formatted as the Ghana National Petroleum Corporation files are
