@@ -21,7 +21,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "Ba\u0142tyk (off shore)",
+    "County": [
+      "Bałtyk (off shore)"
+    ],
     "Country": "Poland"
   },
   {
@@ -46,7 +48,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "Ba\u0142tyk (off shore)",
+    "County": [
+      "Bałtyk (off shore)"
+    ],
     "Country": "Poland"
   },
   {
@@ -71,7 +75,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "Ba\u0142tyk (off shore)",
+    "County": [
+      "Bałtyk (off shore)"
+    ],
     "Country": "Poland"
   },
   {
@@ -96,7 +102,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "Ba\u0142tyk (off shore)",
+    "County": [
+      "Bałtyk (off shore)"
+    ],
     "Country": "Poland"
   },
   {
@@ -121,7 +129,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "gorlicki",
+    "County": [
+      "gorlicki"
+    ],
     "Country": "Poland"
   },
   {
@@ -146,12 +156,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "gorlicki",
+    "County": [
+      "gorlicki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "3",
-    "Name of field": "B\u00f3brka-Rogi",
+    "Name of field": "Bóbrka-Rogi",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -171,7 +183,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "kro\u015bnie\u0144ski",
+    "County": [
+      "krośnieński"
+    ],
     "Country": "Poland"
   },
   {
@@ -196,12 +210,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "bieszczadzki",
+    "County": [
+      "bieszczadzki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "5",
-    "Name of field": "D\u0105br\u00f3wka Tuchowska",
+    "Name of field": "Dąbrówka Tuchowska",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -221,7 +237,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "tarnowski",
+    "County": [
+      "tarnowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -246,7 +264,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "gorlicki",
+    "County": [
+      "gorlicki"
+    ],
     "Country": "Poland"
   },
   {
@@ -271,7 +291,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "kro\u015bnie\u0144ski",
+    "County": [
+      "krośnieński"
+    ],
     "Country": "Poland"
   },
   {
@@ -296,7 +318,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "bieszczadzki",
+    "County": [
+      "bieszczadzki"
+    ],
     "Country": "Poland"
   },
   {
@@ -321,7 +345,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "jasielski",
+    "County": [
+      "jasielski"
+    ],
     "Country": "Poland"
   },
   {
@@ -346,7 +372,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "gorlicki",
+    "County": [
+      "gorlicki"
+    ],
     "Country": "Poland"
   },
   {
@@ -371,7 +399,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "gorlicki",
+    "County": [
+      "gorlicki"
+    ],
     "Country": "Poland"
   },
   {
@@ -396,7 +426,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "brzozowski",
+    "County": [
+      "brzozowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -421,7 +453,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "jasielski",
+    "County": [
+      "jasielski"
+    ],
     "Country": "Poland"
   },
   {
@@ -446,12 +480,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "brzozowski, \nkro\u015bnie\u0144ski",
+    "County": [
+      "brzozowski",
+      "krośnieński"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "15",
-    "Name of field": "Iwonicz-Zdr\u00f3j",
+    "Name of field": "Iwonicz-Zdrój",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -471,7 +508,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "kro\u015bnie\u0144ski",
+    "County": [
+      "krośnieński"
+    ],
     "Country": "Poland"
   },
   {
@@ -496,12 +535,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "jasielski, kro\u015bnie\u0144ski",
+    "County": [
+      "jasielski",
+      "krośnieński"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "17",
-    "Name of field": "Jurowce-Srog\u00f3w",
+    "Name of field": "Jurowce-Srogów",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -521,12 +563,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "sanocki",
+    "County": [
+      "sanocki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "18",
-    "Name of field": "Kro\u015bcienko",
+    "Name of field": "Krościenko",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -546,7 +590,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "kro\u015bnie\u0144ski, \nm.Krosno",
+    "County": [
+      "krośnieński",
+      "m.Krosno"
+    ],
     "Country": "Poland"
   },
   {
@@ -571,12 +618,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "suski",
+    "County": [
+      "suski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "20",
-    "Name of field": "\u0141odyna",
+    "Name of field": "Łodyna",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -596,7 +645,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "bieszczadzki",
+    "County": [
+      "bieszczadzki"
+    ],
     "Country": "Poland"
   },
   {
@@ -621,7 +672,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "gorlicki",
+    "County": [
+      "gorlicki"
+    ],
     "Country": "Poland"
   },
   {
@@ -646,7 +699,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "jasielski",
+    "County": [
+      "jasielski"
+    ],
     "Country": "Poland"
   },
   {
@@ -671,12 +726,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "kro\u015bnie\u0144ski",
+    "County": [
+      "krośnieński"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "24",
-    "Name of field": "Rej. Grabownica Wie\u015b",
+    "Name of field": "Rej. Grabownica Wieś",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -696,7 +753,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "brzozowski, sanocki",
+    "County": [
+      "brzozowski",
+      "sanocki"
+    ],
     "Country": "Poland"
   },
   {
@@ -721,12 +781,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "jasielski",
+    "County": [
+      "jasielski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "26",
-    "Name of field": "Sanok-Zab\u0142otce",
+    "Name of field": "Sanok-Zabłotce",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -746,12 +808,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "sanocki",
+    "County": [
+      "sanocki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "27",
-    "Name of field": "S\u0142opnice",
+    "Name of field": "Słopnice",
     "State of development": "Abandoned",
     "Resources anticipated economic": [
       {
@@ -771,7 +835,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "limanowski",
+    "County": [
+      "limanowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -796,7 +862,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "brzozowski, sanocki",
+    "County": [
+      "brzozowski",
+      "sanocki"
+    ],
     "Country": "Poland"
   },
   {
@@ -821,7 +890,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "gorlicki",
+    "County": [
+      "gorlicki"
+    ],
     "Country": "Poland"
   },
   {
@@ -846,7 +917,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "gorlicki",
+    "County": [
+      "gorlicki"
+    ],
     "Country": "Poland"
   },
   {
@@ -871,12 +944,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "brzozowski",
+    "County": [
+      "brzozowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "32",
-    "Name of field": "Wa\u0144kowa",
+    "Name of field": "Wańkowa",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -896,7 +971,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "bieszczadzki, leski",
+    "County": [
+      "bieszczadzki",
+      "leski"
+    ],
     "Country": "Poland"
   },
   {
@@ -921,12 +999,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "leski",
+    "County": [
+      "leski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "34",
-    "Name of field": "W\u0119gl\u00f3wka",
+    "Name of field": "Węglówka",
     "State of development": "Abandoned",
     "Resources anticipated economic": [
       {
@@ -946,7 +1026,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "kro\u015bnie\u0144ski",
+    "County": [
+      "krośnieński"
+    ],
     "Country": "Poland"
   },
   {
@@ -971,12 +1053,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "brzozowski, \nkro\u015bnie\u0144ski",
+    "County": [
+      "brzozowski",
+      "krośnieński"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "1",
-    "Name of field": "Aleksandr\u00f3wka",
+    "Name of field": "Aleksandrówka",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -996,7 +1081,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "g\u00f3rowski",
+    "County": [
+      "górowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -1021,7 +1108,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "ostrowski, \nostrzeszowski",
+    "County": [
+      "ostrowski",
+      "ostrzeszowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -1046,12 +1136,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "wolszty\u0144ski, \nzielonog\u00f3rski",
+    "County": [
+      "wolsztyński",
+      "zielonogórski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "4",
-    "Name of field": "Bia\u0142ogard",
+    "Name of field": "Białogard",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -1071,12 +1164,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "bia\u0142ogardzki",
+    "County": [
+      "białogardzki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "5",
-    "Name of field": "Bia\u0142og\u00f3ra-E",
+    "Name of field": "Białogóra-E",
     "State of development": "Abandoned",
     "Resources anticipated economic": [
       {
@@ -1096,12 +1191,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "pucki",
+    "County": [
+      "pucki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "6",
-    "Name of field": "B\u0142otno",
+    "Name of field": "Błotno",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -1121,12 +1218,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "goleniowski",
+    "County": [
+      "goleniowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "7",
-    "Name of field": "BMB (Barn\u00f3wko - Mostno - \nBuszewo)",
+    "Name of field": "BMB (Barnówko - Mostno - \nBuszewo)",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -1146,12 +1245,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "gorzowski, \nmy\u015bliborski",
+    "County": [
+      "gorzowski",
+      "myśliborski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "8",
-    "Name of field": "Bogdaj-Uciech\u00f3w",
+    "Name of field": "Bogdaj-Uciechów",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -1171,7 +1273,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "milicki, ostrowski",
+    "County": [
+      "milicki",
+      "ostrowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -1196,7 +1301,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "grodziski, ko\u015bcia\u0144ski",
+    "County": [
+      "grodziski",
+      "kościański"
+    ],
     "Country": "Poland"
   },
   {
@@ -1221,12 +1329,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "ko\u015bcia\u0144ski",
+    "County": [
+      "kościański"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "11",
-    "Name of field": "Borz\u0119cin",
+    "Name of field": "Borzęcin",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -1246,7 +1356,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "trzebnicki",
+    "County": [
+      "trzebnicki"
+    ],
     "Country": "Poland"
   },
   {
@@ -1271,12 +1383,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "kro\u015bnie\u0144ski",
+    "County": [
+      "krośnieński"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "13",
-    "Name of field": "Bro\u0144sko",
+    "Name of field": "Brońsko",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -1296,7 +1410,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "grodziski, ko\u015bcia\u0144ski",
+    "County": [
+      "grodziski",
+      "kościański"
+    ],
     "Country": "Poland"
   },
   {
@@ -1321,12 +1438,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "milicki, ole\u015bnicki",
+    "County": [
+      "milicki",
+      "oleśnicki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "15",
-    "Name of field": "Brz\u00f3zka",
+    "Name of field": "Brzózka",
     "State of development": "Covered By Preliminary Exploration",
     "Resources anticipated economic": [
       {
@@ -1346,7 +1466,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "kro\u015bnie\u0144ski",
+    "County": [
+      "krośnieński"
+    ],
     "Country": "Poland"
   },
   {
@@ -1371,7 +1493,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "nowotomyski, \npozna\u0144ski",
+    "County": [
+      "nowotomyski",
+      "poznański"
+    ],
     "Country": "Poland"
   },
   {
@@ -1396,7 +1521,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "grodziski, \nnowotomyski",
+    "County": [
+      "grodziski",
+      "nowotomyski"
+    ],
     "Country": "Poland"
   },
   {
@@ -1421,7 +1549,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "pozna\u0144ski, \nszamotulski",
+    "County": [
+      "poznański",
+      "szamotulski"
+    ],
     "Country": "Poland"
   },
   {
@@ -1446,7 +1577,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "\u015bwidwi\u0144ski",
+    "County": [
+      "świdwiński"
+    ],
     "Country": "Poland"
   },
   {
@@ -1471,7 +1604,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "lubelski, m.Lublin",
+    "County": [
+      "lubelski",
+      "m.Lublin"
+    ],
     "Country": "Poland"
   },
   {
@@ -1496,12 +1632,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "kro\u015bnie\u0144ski",
+    "County": [
+      "krośnieński"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "22",
-    "Name of field": "Czesz\u00f3w",
+    "Name of field": "Czeszów",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -1521,7 +1659,11 @@
         "is_subeconomic": false
       }
     ],
-    "County": "milicki, ole\u015bnicki, \ntrzebnicki",
+    "County": [
+      "milicki",
+      "oleśnicki",
+      "trzebnicki"
+    ],
     "Country": "Poland"
   },
   {
@@ -1546,7 +1688,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "bia\u0142ogardzki",
+    "County": [
+      "białogardzki"
+    ],
     "Country": "Poland"
   },
   {
@@ -1571,12 +1715,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "ko\u0142obrzeski",
+    "County": [
+      "kołobrzeski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "25",
-    "Name of field": "D\u0119bina",
+    "Name of field": "Dębina",
     "State of development": "Covered by Detailed Exploration",
     "Resources anticipated economic": [
       {
@@ -1596,12 +1742,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "g\u0142ogowski, \nwschowski",
+    "County": [
+      "głogowski",
+      "wschowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "26",
-    "Name of field": "D\u0119bki",
+    "Name of field": "Dębki",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -1621,7 +1770,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "pucki",
+    "County": [
+      "pucki"
+    ],
     "Country": "Poland"
   },
   {
@@ -1646,7 +1797,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "szamotulski",
+    "County": [
+      "szamotulski"
+    ],
     "Country": "Poland"
   },
   {
@@ -1671,12 +1824,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "gorzowski",
+    "County": [
+      "gorzowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "29",
-    "Name of field": "El\u015cbieciny",
+    "Name of field": "ElŜbieciny",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -1696,7 +1851,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "grodziski",
+    "County": [
+      "grodziski"
+    ],
     "Country": "Poland"
   },
   {
@@ -1721,7 +1878,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "gorzowski, \nmy\u015bliborski",
+    "County": [
+      "gorzowski",
+      "myśliborski"
+    ],
     "Country": "Poland"
   },
   {
@@ -1746,7 +1906,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "lubartowski, lubelski",
+    "County": [
+      "lubartowski",
+      "lubelski"
+    ],
     "Country": "Poland"
   },
   {
@@ -1771,12 +1934,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "ko\u015bcia\u0144ski",
+    "County": [
+      "kościański"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "33",
-    "Name of field": "Gorzys\u0142aw N",
+    "Name of field": "Gorzysław N",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -1796,12 +1961,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "gryficki",
+    "County": [
+      "gryficki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "34",
-    "Name of field": "Gorzys\u0142aw S",
+    "Name of field": "Gorzysław S",
     "State of development": "Exploited Temporarily",
     "Resources anticipated economic": [
       {
@@ -1821,12 +1988,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "gryficki",
+    "County": [
+      "gryficki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "35",
-    "Name of field": "G\u00f3ra",
+    "Name of field": "Góra",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -1846,12 +2015,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "g\u00f3rowski",
+    "County": [
+      "górowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "36",
-    "Name of field": "G\u00f3rzyca",
+    "Name of field": "Górzyca",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -1871,12 +2042,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "s\u0142ubicki",
+    "County": [
+      "słubicki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "37",
-    "Name of field": "Grab\u00f3wka E",
+    "Name of field": "Grabówka E",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -1896,12 +2069,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "milicki",
+    "County": [
+      "milicki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "38",
-    "Name of field": "Grab\u00f3wka W",
+    "Name of field": "Grabówka W",
     "State of development": "Covered By Preliminary Exploration",
     "Resources anticipated economic": [
       {
@@ -1921,7 +2096,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "milicki, trzebnicki",
+    "County": [
+      "milicki",
+      "trzebnicki"
+    ],
     "Country": "Poland"
   },
   {
@@ -1946,7 +2124,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "g\u0142ogowski, \nnowosolski",
+    "County": [
+      "głogowski",
+      "nowosolski"
+    ],
     "Country": "Poland"
   },
   {
@@ -1971,12 +2152,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "grodziski",
+    "County": [
+      "grodziski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "41",
-    "Name of field": "Grot\u00f3w",
+    "Name of field": "Grotów",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -1996,12 +2179,16 @@
         "is_subeconomic": false
       }
     ],
-    "County": "czarnkowsko-\ntrzcianecki, \nmi\u0119dzychodzki, \nstrzelecko-\ndrezdenecki",
+    "County": [
+      "czarnkowskotrzcianecki",
+      "międzychodzki",
+      "strzeleckodrezdenecki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "43",
-    "Name of field": "Jab\u0142onna",
+    "Name of field": "Jabłonna",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -2021,12 +2208,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "grodziski",
+    "County": [
+      "grodziski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "44",
-    "Name of field": "Jab\u0142onna S",
+    "Name of field": "Jabłonna S",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -2046,12 +2235,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "grodziski",
+    "County": [
+      "grodziski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "45",
-    "Name of field": "Jab\u0142onna W",
+    "Name of field": "Jabłonna W",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -2071,7 +2262,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "grodziski",
+    "County": [
+      "grodziski"
+    ],
     "Country": "Poland"
   },
   {
@@ -2096,7 +2289,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "pozna\u0144ski, \nszamotulski",
+    "County": [
+      "poznański",
+      "szamotulski"
+    ],
     "Country": "Poland"
   },
   {
@@ -2121,12 +2317,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "jaroci\u0144ski, pleszewski",
+    "County": [
+      "jarociński",
+      "pleszewski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "48",
-    "Name of field": "Jastrz\u0119bsko",
+    "Name of field": "Jastrzębsko",
     "State of development": "Covered by Detailed Exploration",
     "Resources anticipated economic": [
       {
@@ -2146,7 +2345,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "nowotomyski",
+    "County": [
+      "nowotomyski"
+    ],
     "Country": "Poland"
   },
   {
@@ -2171,7 +2372,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "gorzowski",
+    "County": [
+      "gorzowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -2196,7 +2399,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "\u015bredzki, \u015bremski",
+    "County": [
+      "średzki",
+      "śremski"
+    ],
     "Country": "Poland"
   },
   {
@@ -2221,12 +2427,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "\u015bredzki",
+    "County": [
+      "średzki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "52",
-    "Name of field": "Kamie\u0144 Ma\u0142y",
+    "Name of field": "Kamień Mały",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -2246,12 +2454,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "gorzowski, sul\u0119ci\u0144ski",
+    "County": [
+      "gorzowski",
+      "sulęciński"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "53",
-    "Name of field": "Kamie\u0144 Pomorski",
+    "Name of field": "Kamień Pomorski",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -2271,7 +2482,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "kamie\u0144ski",
+    "County": [
+      "kamieński"
+    ],
     "Country": "Poland"
   },
   {
@@ -2296,7 +2509,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "g\u00f3rowski, wschowski",
+    "County": [
+      "górowski",
+      "wschowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -2321,12 +2537,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "wolszty\u0144ski, \nzielonog\u00f3rski",
+    "County": [
+      "wolsztyński",
+      "zielonogórski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "56",
-    "Name of field": "K\u0105kolewo",
+    "Name of field": "Kąkolewo",
     "State of development": "Covered By Preliminary Exploration",
     "Resources anticipated economic": [
       {
@@ -2346,7 +2565,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "leszczy\u0144ski",
+    "County": [
+      "leszczyński"
+    ],
     "Country": "Poland"
   },
   {
@@ -2371,7 +2592,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "zielonog\u00f3rski",
+    "County": [
+      "zielonogórski"
+    ],
     "Country": "Poland"
   },
   {
@@ -2396,12 +2619,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "zielonog\u00f3rski",
+    "County": [
+      "zielonogórski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "59",
-    "Name of field": "Kl\u0119ka E",
+    "Name of field": "Klęka E",
     "State of development": "Abandoned",
     "Resources anticipated economic": [
       {
@@ -2421,7 +2646,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "jaroci\u0144ski",
+    "County": [
+      "jarociński"
+    ],
     "Country": "Poland"
   },
   {
@@ -2446,7 +2673,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "jaroci\u0144ski, wrzesi\u0144ski",
+    "County": [
+      "jarociński",
+      "wrzesiński"
+    ],
     "Country": "Poland"
   },
   {
@@ -2471,7 +2701,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "kro\u015bnie\u0144ski",
+    "County": [
+      "krośnieński"
+    ],
     "Country": "Poland"
   },
   {
@@ -2496,7 +2728,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "kro\u015bnie\u0144ski",
+    "County": [
+      "krośnieński"
+    ],
     "Country": "Poland"
   },
   {
@@ -2521,12 +2755,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "kro\u015bnie\u0144ski, s\u0142ubicki",
+    "County": [
+      "krośnieński",
+      "słubicki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "64",
-    "Name of field": "Ko\u015bcian S",
+    "Name of field": "Kościan S",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -2546,12 +2783,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "ko\u015bcia\u0144ski",
+    "County": [
+      "kościański"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "65",
-    "Name of field": "Ko\u015bcian S-Ca2",
+    "Name of field": "Kościan S-Ca2",
     "State of development": "Covered By Preliminary Exploration",
     "Resources anticipated economic": [
       {
@@ -2571,7 +2810,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "ko\u015bcia\u0144ski",
+    "County": [
+      "kościański"
+    ],
     "Country": "Poland"
   },
   {
@@ -2596,7 +2837,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "\u015bredzki",
+    "County": [
+      "średzki"
+    ],
     "Country": "Poland"
   },
   {
@@ -2621,12 +2864,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "pozna\u0144ski, \u015bredzki",
+    "County": [
+      "poznański",
+      "średzki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "68",
-    "Name of field": "Kul\u00f3w",
+    "Name of field": "Kulów",
     "State of development": "Covered by Detailed Exploration",
     "Resources anticipated economic": [
       {
@@ -2646,7 +2892,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "g\u0142ogowski",
+    "County": [
+      "głogowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -2671,7 +2919,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "g\u00f3rowski",
+    "County": [
+      "górowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -2696,7 +2946,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "g\u00f3rowski",
+    "County": [
+      "górowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -2721,12 +2973,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "jaroci\u0144ski, wrzesi\u0144ski",
+    "County": [
+      "jarociński",
+      "wrzesiński"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "72",
-    "Name of field": "Lubiat\u00f3w",
+    "Name of field": "Lubiatów",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -2746,7 +3001,11 @@
         "is_subeconomic": false
       }
     ],
-    "County": "mi\u0119dzychodzki, \nmi\u0119dzyrzecki, \nstrzelecko-\ndrezdenecki",
+    "County": [
+      "międzychodzki",
+      "międzyrzecki",
+      "strzeleckodrezdenecki"
+    ],
     "Country": "Poland"
   },
   {
@@ -2771,12 +3030,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "gorzowski",
+    "County": [
+      "gorzowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "74",
-    "Name of field": "\u0141\u0119ki",
+    "Name of field": "Łęki",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -2796,12 +3057,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "grodziski",
+    "County": [
+      "grodziski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "75",
-    "Name of field": "Me\u0142giew A i Me\u0142giew B",
+    "Name of field": "Mełgiew A i Mełgiew B",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -2821,7 +3084,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "lubelski, \u015bwidnicki",
+    "County": [
+      "lubelski",
+      "świdnicki"
+    ],
     "Country": "Poland"
   },
   {
@@ -2846,12 +3112,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "nowotomyski",
+    "County": [
+      "nowotomyski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "77",
-    "Name of field": "Mi\u0119dzych\u00f3d",
+    "Name of field": "Międzychód",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -2871,12 +3139,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "mi\u0119dzychodzki, \nstrzelecko-\ndrezdenecki",
+    "County": [
+      "międzychodzki",
+      "strzeleckodrezdenecki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "78",
-    "Name of field": "Mi\u0119dzyzdroje E",
+    "Name of field": "Międzyzdroje E",
     "State of development": "Covered By Preliminary Exploration",
     "Resources anticipated economic": [
       {
@@ -2896,12 +3167,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "kamie\u0144ski",
+    "County": [
+      "kamieński"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "79",
-    "Name of field": "Mi\u0119dzyzdroje W",
+    "Name of field": "Międzyzdroje W",
     "State of development": "Covered By Preliminary Exploration",
     "Resources anticipated economic": [
       {
@@ -2921,12 +3194,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "kamie\u0144ski, \nm.\u015awinouj\u015bcie",
+    "County": [
+      "kamieński",
+      "m.Świnoujście"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "80",
-    "Name of field": "M\u0142odasko",
+    "Name of field": "Młodasko",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -2946,12 +3222,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "pozna\u0144ski, \nszamotulski",
+    "County": [
+      "poznański",
+      "szamotulski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "81",
-    "Name of field": "Moz\u00f3w S",
+    "Name of field": "Mozów S",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -2971,12 +3250,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "zielonog\u00f3rski",
+    "County": [
+      "zielonogórski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "82",
-    "Name of field": "Namy\u015blin",
+    "Name of field": "Namyślin",
     "State of development": "Covered by Detailed Exploration",
     "Resources anticipated economic": [
       {
@@ -2996,12 +3277,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "my\u015bliborski",
+    "County": [
+      "myśliborski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "83",
-    "Name of field": "Narat\u00f3w",
+    "Name of field": "Naratów",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -3021,12 +3304,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "g\u00f3rowski",
+    "County": [
+      "górowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "84",
-    "Name of field": "Niechl\u00f3w",
+    "Name of field": "Niechlów",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -3046,7 +3331,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "g\u00f3rowski",
+    "County": [
+      "górowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -3071,12 +3358,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "grodziski",
+    "County": [
+      "grodziski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "86",
-    "Name of field": "Nowa S\u00f3l",
+    "Name of field": "Nowa Sól",
     "State of development": "Covered by Detailed Exploration",
     "Resources anticipated economic": [
       {
@@ -3096,12 +3385,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "nowosolski",
+    "County": [
+      "nowosolski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "87",
-    "Name of field": "Nowy Tomy\u015bl",
+    "Name of field": "Nowy Tomyśl",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -3121,12 +3412,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "nowotomyski",
+    "County": [
+      "nowotomyski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "89",
-    "Name of field": "Pakos\u0142aw",
+    "Name of field": "Pakosław",
     "State of development": "Covered by Detailed Exploration",
     "Resources anticipated economic": [
       {
@@ -3146,12 +3439,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "rawicki",
+    "County": [
+      "rawicki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "90",
-    "Name of field": "Papro\u0107",
+    "Name of field": "Paproć",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -3171,12 +3466,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "grodziski, \nnowotomyski",
+    "County": [
+      "grodziski",
+      "nowotomyski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "91",
-    "Name of field": "Papro\u0107 W",
+    "Name of field": "Paproć W",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -3196,7 +3494,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "nowotomyski",
+    "County": [
+      "nowotomyski"
+    ],
     "Country": "Poland"
   },
   {
@@ -3221,12 +3521,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "szamotulski",
+    "County": [
+      "szamotulski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "93",
-    "Name of field": "Pora\u015cyn",
+    "Name of field": "PoraŜyn",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -3246,12 +3548,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "nowotomyski",
+    "County": [
+      "nowotomyski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "94",
-    "Name of field": "Przyt\u00f3r",
+    "Name of field": "Przytór",
     "State of development": "Covered By Preliminary Exploration",
     "Resources anticipated economic": [
       {
@@ -3271,7 +3575,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "m.\u015awinouj\u015bcie",
+    "County": [
+      "m.Świnoujście"
+    ],
     "Country": "Poland"
   },
   {
@@ -3296,7 +3602,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "jaroci\u0144ski, \u015bredzki",
+    "County": [
+      "jarociński",
+      "średzki"
+    ],
     "Country": "Poland"
   },
   {
@@ -3321,12 +3630,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "\u015bwiebodzi\u0144ski",
+    "County": [
+      "świebodziński"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "97",
-    "Name of field": "Radzi\u0105dz",
+    "Name of field": "Radziądz",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -3346,12 +3657,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "trzebnicki",
+    "County": [
+      "trzebnicki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "98",
-    "Name of field": "Radzi\u0105dz-W",
+    "Name of field": "Radziądz-W",
     "State of development": "Covered by Detailed Exploration",
     "Resources anticipated economic": [
       {
@@ -3371,12 +3684,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "trzebnicki",
+    "County": [
+      "trzebnicki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "99",
-    "Name of field": "Rawicz-dolomit g\u0142\u00f3wny",
+    "Name of field": "Rawicz-dolomit główny",
     "State of development": "Covered By Preliminary Exploration",
     "Resources anticipated economic": [
       {
@@ -3396,12 +3711,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "rawicki, trzebnicki",
+    "County": [
+      "rawicki",
+      "trzebnicki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "100",
-    "Name of field": "Rawicz-wap.podst.-cz.sp\u0105g.",
+    "Name of field": "Rawicz-wap.podst.-cz.spąg.",
     "State of development": "Covered By Preliminary Exploration",
     "Resources anticipated economic": [
       {
@@ -3421,7 +3739,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "rawicki",
+    "County": [
+      "rawicki"
+    ],
     "Country": "Poland"
   },
   {
@@ -3446,7 +3766,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "kamie\u0144ski",
+    "County": [
+      "kamieński"
+    ],
     "Country": "Poland"
   },
   {
@@ -3471,12 +3793,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "kro\u015bnie\u0144ski",
+    "County": [
+      "krośnieński"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "103",
-    "Name of field": "Roszk\u00f3w",
+    "Name of field": "Roszków",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -3496,12 +3820,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "jaroci\u0144ski",
+    "County": [
+      "jarociński"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "104",
-    "Name of field": "R\u00f3\u015ca\u0144sko",
+    "Name of field": "RóŜańsko",
     "State of development": "Exploited Temporarily",
     "Resources anticipated economic": [
       {
@@ -3521,7 +3847,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "my\u015bliborski",
+    "County": [
+      "myśliborski"
+    ],
     "Country": "Poland"
   },
   {
@@ -3546,12 +3874,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "grodziski",
+    "County": [
+      "grodziski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "106",
-    "Name of field": "S\u0119dziny",
+    "Name of field": "Sędziny",
     "State of development": "Covered By Preliminary Exploration",
     "Resources anticipated economic": [
       {
@@ -3571,12 +3901,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "szamotulski",
+    "County": [
+      "szamotulski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "107",
-    "Name of field": "Sierak\u00f3w",
+    "Name of field": "Sieraków",
     "State of development": "Covered By Preliminary Exploration",
     "Resources anticipated economic": [
       {
@@ -3596,12 +3928,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "mi\u0119dzychodzki",
+    "County": [
+      "międzychodzki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "108",
-    "Name of field": "S\u0142awoborze",
+    "Name of field": "Sławoborze",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -3621,12 +3955,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "\u015bwidwi\u0144ski",
+    "County": [
+      "świdwiński"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "109",
-    "Name of field": "S\u0142awoborze",
+    "Name of field": "Sławoborze",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -3646,7 +3982,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "\u015bwidwi\u0144ski",
+    "County": [
+      "świdwiński"
+    ],
     "Country": "Poland"
   },
   {
@@ -3671,7 +4009,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "\u015bremski",
+    "County": [
+      "śremski"
+    ],
     "Country": "Poland"
   },
   {
@@ -3696,12 +4036,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "gorzowski",
+    "County": [
+      "gorzowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "112",
-    "Name of field": "St\u0119szew",
+    "Name of field": "Stęszew",
     "State of development": "Abandoned",
     "Resources anticipated economic": [
       {
@@ -3721,12 +4063,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "pozna\u0144ski",
+    "County": [
+      "poznański"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "113",
-    "Name of field": "St\u0119\u015cyca",
+    "Name of field": "StęŜyca",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -3746,7 +4090,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "garwoli\u0144ski, rycki",
+    "County": [
+      "garwoliński",
+      "rycki"
+    ],
     "Country": "Poland"
   },
   {
@@ -3771,7 +4118,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "pozna\u0144ski",
+    "County": [
+      "poznański"
+    ],
     "Country": "Poland"
   },
   {
@@ -3796,7 +4145,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "pozna\u0144ski",
+    "County": [
+      "poznański"
+    ],
     "Country": "Poland"
   },
   {
@@ -3821,7 +4172,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "nowotomyski, \npozna\u0144ski",
+    "County": [
+      "nowotomyski",
+      "poznański"
+    ],
     "Country": "Poland"
   },
   {
@@ -3846,12 +4200,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "wschowski",
+    "County": [
+      "wschowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "118",
-    "Name of field": "\u015alub\u00f3w",
+    "Name of field": "Ślubów",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -3871,12 +4227,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "g\u00f3rowski",
+    "County": [
+      "górowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "119",
-    "Name of field": "\u015aroda Wielkopolska",
+    "Name of field": "Środa Wielkopolska",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -3896,12 +4254,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "\u015bredzki",
+    "County": [
+      "średzki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "120",
-    "Name of field": "Tarcha\u0142y (d.g.+cz.s.)",
+    "Name of field": "Tarchały (d.g.+cz.s.)",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -3921,7 +4281,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "ostrowski",
+    "County": [
+      "ostrowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -3946,7 +4308,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "gryficki",
+    "County": [
+      "gryficki"
+    ],
     "Country": "Poland"
   },
   {
@@ -3971,7 +4335,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "nowotomyski",
+    "County": [
+      "nowotomyski"
+    ],
     "Country": "Poland"
   },
   {
@@ -3996,12 +4362,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "grodziski",
+    "County": [
+      "grodziski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "124",
-    "Name of field": "Unik\u00f3w",
+    "Name of field": "Uników",
     "State of development": "Covered By Preliminary Exploration",
     "Resources anticipated economic": [
       {
@@ -4021,7 +4389,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "sieradzki, \nwieruszowski",
+    "County": [
+      "sieradzki",
+      "wieruszowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -4046,7 +4417,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "grodziski",
+    "County": [
+      "grodziski"
+    ],
     "Country": "Poland"
   },
   {
@@ -4071,7 +4444,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "milicki",
+    "County": [
+      "milicki"
+    ],
     "Country": "Poland"
   },
   {
@@ -4096,7 +4471,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "milicki",
+    "County": [
+      "milicki"
+    ],
     "Country": "Poland"
   },
   {
@@ -4121,7 +4498,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "milicki",
+    "County": [
+      "milicki"
+    ],
     "Country": "Poland"
   },
   {
@@ -4146,7 +4525,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "koszali\u0144ski, \nszczecinecki",
+    "County": [
+      "koszaliński",
+      "szczecinecki"
+    ],
     "Country": "Poland"
   },
   {
@@ -4171,7 +4553,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "g\u00f3rowski",
+    "County": [
+      "górowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -4196,7 +4580,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "g\u00f3rowski",
+    "County": [
+      "górowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -4221,12 +4607,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "g\u00f3rowski",
+    "County": [
+      "górowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "133",
-    "Name of field": "Wilcze-czerw.sp\u0105g.",
+    "Name of field": "Wilcze-czerw.spąg.",
     "State of development": "Covered by Detailed Exploration",
     "Resources anticipated economic": [
       {
@@ -4246,12 +4634,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "wolszty\u0144ski, \nzielonog\u00f3rski",
+    "County": [
+      "wolsztyński",
+      "zielonogórski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "134",
-    "Name of field": "Wilcze-dolomit g\u0142\u00f3wny",
+    "Name of field": "Wilcze-dolomit główny",
     "State of development": "Covered By Preliminary Exploration",
     "Resources anticipated economic": [
       {
@@ -4271,7 +4662,11 @@
         "is_subeconomic": false
       }
     ],
-    "County": "nowosolski, \nwolszty\u0144ski, \nzielonog\u00f3rski",
+    "County": [
+      "nowosolski",
+      "wolsztyński",
+      "zielonogórski"
+    ],
     "Country": "Poland"
   },
   {
@@ -4296,12 +4691,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "otwocki",
+    "County": [
+      "otwocki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "136",
-    "Name of field": "Wilk\u00f3w",
+    "Name of field": "Wilków",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -4321,12 +4718,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "g\u0142ogowski, \nwschowski",
+    "County": [
+      "głogowski",
+      "wschowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "137",
-    "Name of field": "Winna G\u00f3ra",
+    "Name of field": "Winna Góra",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -4346,7 +4746,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "\u015bredzki, wrzesi\u0144ski",
+    "County": [
+      "średzki",
+      "wrzesiński"
+    ],
     "Country": "Poland"
   },
   {
@@ -4371,12 +4774,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "kamie\u0144ski",
+    "County": [
+      "kamieński"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "140",
-    "Name of field": "Wysocko Ma\u0142e E",
+    "Name of field": "Wysocko Małe E",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -4396,12 +4801,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "ostrowski",
+    "County": [
+      "ostrowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "141",
-    "Name of field": "Wysoka Kamie\u0144ska",
+    "Name of field": "Wysoka Kamieńska",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -4421,7 +4828,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "goleniowski",
+    "County": [
+      "goleniowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -4446,12 +4855,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "rawicki",
+    "County": [
+      "rawicki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "143",
-    "Name of field": "Za\u0142\u0119cze",
+    "Name of field": "Załęcze",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -4471,12 +4882,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "g\u00f3rowski, rawicki",
+    "County": [
+      "górowski",
+      "rawicki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "144",
-    "Name of field": "Zaniemy\u015bl",
+    "Name of field": "Zaniemyśl",
     "State of development": "Exploited Temporarily",
     "Resources anticipated economic": [
       {
@@ -4496,12 +4910,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "\u015bredzki, \u015bremski",
+    "County": [
+      "średzki",
+      "śremski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "145",
-    "Name of field": "Zb\u0105szy\u0144",
+    "Name of field": "Zbąszyń",
     "State of development": "Covered By Preliminary Exploration",
     "Resources anticipated economic": [
       {
@@ -4521,7 +4938,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "nowotomyski, \nwolszty\u0144ski",
+    "County": [
+      "nowotomyski",
+      "wolsztyński"
+    ],
     "Country": "Poland"
   },
   {
@@ -4546,12 +4966,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "gryfi\u0144ski",
+    "County": [
+      "gryfiński"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "147",
-    "Name of field": "\u015bakowo",
+    "Name of field": "śakowo",
     "State of development": "Covered by Detailed Exploration",
     "Resources anticipated economic": [
       {
@@ -4571,12 +4993,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "leszczy\u0144ski",
+    "County": [
+      "leszczyński"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "148",
-    "Name of field": "\u015barnowiec",
+    "Name of field": "śarnowiec",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -4596,12 +5020,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "pucki",
+    "County": [
+      "pucki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "149",
-    "Name of field": "\u015barnowiec W",
+    "Name of field": "śarnowiec W",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -4621,12 +5047,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "pucki",
+    "County": [
+      "pucki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "150",
-    "Name of field": "\u015buchl\u00f3w",
+    "Name of field": "śuchlów",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -4646,7 +5074,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "g\u00f3rowski",
+    "County": [
+      "górowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -4671,12 +5101,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "przemyski",
+    "County": [
+      "przemyski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "2",
-    "Name of field": "Bia\u0142oboki",
+    "Name of field": "Białoboki",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -4696,7 +5128,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "przeworski",
+    "County": [
+      "przeworski"
+    ],
     "Country": "Poland"
   },
   {
@@ -4721,7 +5155,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "bi\u0142gorajski",
+    "County": [
+      "biłgorajski"
+    ],
     "Country": "Poland"
   },
   {
@@ -4746,7 +5182,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "mielecki",
+    "County": [
+      "mielecki"
+    ],
     "Country": "Poland"
   },
   {
@@ -4771,12 +5209,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "brzeski",
+    "County": [
+      "brzeski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "6",
-    "Name of field": "Brzez\u00f3wka",
+    "Name of field": "Brzezówka",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -4796,12 +5236,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "ropczycko-\ns\u0119dziszowski",
+    "County": [
+      "ropczyckosędziszowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "7",
-    "Name of field": "Brze\u017anica",
+    "Name of field": "Brzeźnica",
     "State of development": "Underground Natural Gas Storage",
     "Resources anticipated economic": [
       {
@@ -4821,12 +5263,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "d\u0119bicki",
+    "County": [
+      "dębicki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "8",
-    "Name of field": "Brz\u00f3za Kr\u00f3lewska",
+    "Name of field": "Brzóza Królewska",
     "State of development": "Covered by Detailed Exploration",
     "Resources anticipated economic": [
       {
@@ -4846,12 +5290,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "le\u015cajski",
+    "County": [
+      "leŜajski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "9",
-    "Name of field": "Buszkowiczki (Przemy\u015bl)",
+    "Name of field": "Buszkowiczki (Przemyśl)",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -4871,12 +5317,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "przemyski",
+    "County": [
+      "przemyski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "10",
-    "Name of field": "Cha\u0142upki D\u0119bnia\u0144skie",
+    "Name of field": "Chałupki Dębniańskie",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -4896,7 +5344,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "le\u015cajski, przeworski",
+    "County": [
+      "leŜajski",
+      "przeworski"
+    ],
     "Country": "Poland"
   },
   {
@@ -4921,7 +5372,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "jaros\u0142awski",
+    "County": [
+      "jarosławski"
+    ],
     "Country": "Poland"
   },
   {
@@ -4946,12 +5399,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "ropczycko-\ns\u0119dziszowski",
+    "County": [
+      "ropczyckosędziszowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "13",
-    "Name of field": "Czarna S\u0119dziszowska",
+    "Name of field": "Czarna Sędziszowska",
     "State of development": "Exploited Temporarily",
     "Resources anticipated economic": [
       {
@@ -4971,12 +5426,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "ropczycko-\ns\u0119dziszowski",
+    "County": [
+      "ropczyckosędziszowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "14",
-    "Name of field": "D\u0105br\u00f3wka",
+    "Name of field": "Dąbrówka",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -4996,12 +5453,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "boche\u0144ski",
+    "County": [
+      "bocheński"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "15",
-    "Name of field": "D\u0119bowiec \u015al\u0105ski",
+    "Name of field": "Dębowiec Śląski",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -5021,12 +5480,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "cieszy\u0144ski",
+    "County": [
+      "cieszyński"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "16",
-    "Name of field": "Dzik\u00f3w",
+    "Name of field": "Dzików",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -5046,12 +5507,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "lubaczowski",
+    "County": [
+      "lubaczowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "17",
-    "Name of field": "G\u00f3ra Ropczycka",
+    "Name of field": "Góra Ropczycka",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -5071,7 +5534,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "ropczycko-\ns\u0119dziszowski",
+    "County": [
+      "ropczyckosędziszowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -5096,7 +5561,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "boche\u0144ski, wielicki",
+    "County": [
+      "bocheński",
+      "wielicki"
+    ],
     "Country": "Poland"
   },
   {
@@ -5121,12 +5589,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "boche\u0144ski, wielicki",
+    "County": [
+      "bocheński",
+      "wielicki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "20",
-    "Name of field": "Gr\u0105dy Boche\u0144skie",
+    "Name of field": "Grądy Bocheńskie",
     "State of development": "Abandoned",
     "Resources anticipated economic": [
       {
@@ -5146,7 +5617,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "boche\u0144ski, brzeski",
+    "County": [
+      "bocheński",
+      "brzeski"
+    ],
     "Country": "Poland"
   },
   {
@@ -5171,7 +5645,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "boche\u0144ski",
+    "County": [
+      "bocheński"
+    ],
     "Country": "Poland"
   },
   {
@@ -5196,12 +5672,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "le\u015cajski",
+    "County": [
+      "leŜajski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "23",
-    "Name of field": "Grusz\u00f3w",
+    "Name of field": "Gruszów",
     "State of development": "Abandoned",
     "Resources anticipated economic": [
       {
@@ -5221,7 +5699,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "d\u0105browski",
+    "County": [
+      "dąbrowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -5246,12 +5726,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "jaros\u0142awski, \nprzemyski",
+    "County": [
+      "jarosławski",
+      "przemyski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "25",
-    "Name of field": "Hus\u00f3w",
+    "Name of field": "Husów",
     "State of development": "Underground Natural Gas Storage",
     "Resources anticipated economic": [
       {
@@ -5271,12 +5754,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "\u0142a\u0144cucki",
+    "County": [
+      "łańcucki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "26",
-    "Name of field": "Hus\u00f3w-Albigowa-Krasne",
+    "Name of field": "Husów-Albigowa-Krasne",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -5296,7 +5781,12 @@
         "is_subeconomic": false
       }
     ],
-    "County": "\u0142a\u0144cucki, m.Rzesz\u00f3w, \nprzeworski, \nrzeszowski",
+    "County": [
+      "łańcucki",
+      "m.Rzeszów",
+      "przeworski",
+      "rzeszowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -5321,12 +5811,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "brzeski",
+    "County": [
+      "brzeski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "28",
-    "Name of field": "Jaros\u0142aw",
+    "Name of field": "Jarosław",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -5346,7 +5838,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "jaros\u0142awski",
+    "County": [
+      "jarosławski"
+    ],
     "Country": "Poland"
   },
   {
@@ -5371,12 +5865,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "rzeszowski",
+    "County": [
+      "rzeszowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "30",
-    "Name of field": "Jastrz\u0105bka Stara",
+    "Name of field": "Jastrząbka Stara",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -5396,12 +5892,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "d\u0119bicki",
+    "County": [
+      "dębicki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "31",
-    "Name of field": "Ja\u015bniny P\u00f3\u0142noc",
+    "Name of field": "Jaśniny Północ",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -5421,12 +5919,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "tarnowski",
+    "County": [
+      "tarnowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "32",
-    "Name of field": "Je\u015cowe NW",
+    "Name of field": "JeŜowe NW",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -5446,12 +5946,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "ni\u015ca\u0144ski",
+    "County": [
+      "niŜański"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "33",
-    "Name of field": "Jod\u0142\u00f3wka",
+    "Name of field": "Jodłówka",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -5471,7 +5973,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "jaros\u0142awski",
+    "County": [
+      "jarosławski"
+    ],
     "Country": "Poland"
   },
   {
@@ -5496,12 +6000,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "cieszy\u0144ski",
+    "County": [
+      "cieszyński"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "35",
-    "Name of field": "Ka\u0144czuga",
+    "Name of field": "Kańczuga",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -5521,12 +6027,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "przeworski",
+    "County": [
+      "przeworski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "36",
-    "Name of field": "K\u0105ty Rakszawskie",
+    "Name of field": "Kąty Rakszawskie",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -5546,12 +6054,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "\u0142a\u0144cucki, rzeszowski",
+    "County": [
+      "łańcucki",
+      "rzeszowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "38",
-    "Name of field": "Korzeni\u00f3w",
+    "Name of field": "Korzeniów",
     "State of development": "Abandoned",
     "Resources anticipated economic": [
       {
@@ -5571,12 +6082,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "d\u0119bicki",
+    "County": [
+      "dębicki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "39",
-    "Name of field": "Korzeni\u00f3w (gaz)",
+    "Name of field": "Korzeniów (gaz)",
     "State of development": "Abandoned",
     "Resources anticipated economic": [
       {
@@ -5596,7 +6109,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "d\u0119bicki",
+    "County": [
+      "dębicki"
+    ],
     "Country": "Poland"
   },
   {
@@ -5621,12 +6136,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "bielski",
+    "County": [
+      "bielski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "41",
-    "Name of field": "Ksi\u0119\u015cpol",
+    "Name of field": "KsięŜpol",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -5646,7 +6163,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "bi\u0142gorajski",
+    "County": [
+      "biłgorajski"
+    ],
     "Country": "Poland"
   },
   {
@@ -5671,12 +6190,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "kolbuszowski, \nrzeszowski",
+    "County": [
+      "kolbuszowski",
+      "rzeszowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "43",
-    "Name of field": "Kury\u0142\u00f3wka",
+    "Name of field": "Kuryłówka",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -5696,7 +6218,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "le\u015cajski",
+    "County": [
+      "leŜajski"
+    ],
     "Country": "Poland"
   },
   {
@@ -5721,12 +6245,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "kolbuszowski",
+    "County": [
+      "kolbuszowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "45",
-    "Name of field": "Lubacz\u00f3w",
+    "Name of field": "Lubaczów",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -5746,12 +6272,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "lubaczowski",
+    "County": [
+      "lubaczowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "46",
-    "Name of field": "Lubliniec - Cieszan\u00f3w",
+    "Name of field": "Lubliniec - Cieszanów",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -5771,12 +6299,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "bi\u0142gorajski, \nlubaczowski",
+    "County": [
+      "biłgorajski",
+      "lubaczowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "47",
-    "Name of field": "\u0141apan\u00f3w",
+    "Name of field": "Łapanów",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -5796,12 +6327,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "boche\u0144ski",
+    "County": [
+      "bocheński"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "48",
-    "Name of field": "\u0141apczyca",
+    "Name of field": "Łapczyca",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -5821,12 +6354,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "boche\u0144ski",
+    "County": [
+      "bocheński"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "49",
-    "Name of field": "\u0141azy",
+    "Name of field": "Łazy",
     "State of development": "Abandoned",
     "Resources anticipated economic": [
       {
@@ -5846,12 +6381,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "brzeski",
+    "County": [
+      "brzeski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "50",
-    "Name of field": "\u0141\u0105kta",
+    "Name of field": "Łąkta",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -5871,12 +6408,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "boche\u0144ski",
+    "County": [
+      "bocheński"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "51",
-    "Name of field": "\u0141\u0119kawica",
+    "Name of field": "Łękawica",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -5896,12 +6435,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "tarnowski",
+    "County": [
+      "tarnowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "52",
-    "Name of field": "\u0141\u0119towice-Bogumi\u0142owice",
+    "Name of field": "Łętowice-Bogumiłowice",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -5921,12 +6462,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "brzeski, tarnowski",
+    "County": [
+      "brzeski",
+      "tarnowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "53",
-    "Name of field": "\u0141ukowa",
+    "Name of field": "Łukowa",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -5946,7 +6490,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "bi\u0142gorajski",
+    "County": [
+      "biłgorajski"
+    ],
     "Country": "Poland"
   },
   {
@@ -5971,7 +6517,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "bi\u0142gorajski",
+    "County": [
+      "biłgorajski"
+    ],
     "Country": "Poland"
   },
   {
@@ -5996,12 +6544,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "jaros\u0142awski, \nprzeworski",
+    "County": [
+      "jarosławski",
+      "przeworski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "56",
-    "Name of field": "Mo\u0142odycz",
+    "Name of field": "Mołodycz",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -6021,7 +6572,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "jaros\u0142awski",
+    "County": [
+      "jarosławski"
+    ],
     "Country": "Poland"
   },
   {
@@ -6046,7 +6599,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "jaros\u0142awski",
+    "County": [
+      "jarosławski"
+    ],
     "Country": "Poland"
   },
   {
@@ -6071,12 +6626,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "kolbuszowski, \nmielecki",
+    "County": [
+      "kolbuszowski",
+      "mielecki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "59",
-    "Name of field": "Nos\u00f3wka",
+    "Name of field": "Nosówka",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -6096,12 +6654,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "rzeszowski",
+    "County": [
+      "rzeszowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "60",
-    "Name of field": "Nos\u00f3wka (gaz)",
+    "Name of field": "Nosówka (gaz)",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -6121,7 +6681,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "ropczycko-\ns\u0119dziszowski, \nrzeszowski",
+    "County": [
+      "ropczyckosędziszowski",
+      "rzeszowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -6146,12 +6709,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "ni\u015ca\u0144ski",
+    "County": [
+      "niŜański"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "62",
-    "Name of field": "Palik\u00f3wka",
+    "Name of field": "Palikówka",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -6171,12 +6736,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "\u0142a\u0144cucki, rzeszowski",
+    "County": [
+      "łańcucki",
+      "rzeszowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "63",
-    "Name of field": "Pilzno Po\u0142udnie",
+    "Name of field": "Pilzno Południe",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -6196,7 +6764,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "d\u0119bicki",
+    "County": [
+      "dębicki"
+    ],
     "Country": "Poland"
   },
   {
@@ -6221,12 +6791,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "d\u0119bicki, mielecki",
+    "County": [
+      "dębicki",
+      "mielecki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "65",
-    "Name of field": "Pog\u00f3rska Wola",
+    "Name of field": "Pogórska Wola",
     "State of development": "Abandoned",
     "Resources anticipated economic": [
       {
@@ -6246,12 +6819,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "d\u0119bicki, tarnowski",
+    "County": [
+      "dębicki",
+      "tarnowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "66",
-    "Name of field": "Pog\u00f3rz",
+    "Name of field": "Pogórz",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -6271,12 +6847,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "cieszy\u0144ski",
+    "County": [
+      "cieszyński"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "67",
-    "Name of field": "Pogwizd\u00f3w",
+    "Name of field": "Pogwizdów",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -6296,12 +6874,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "\u0142a\u0144cucki",
+    "County": [
+      "łańcucki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "68",
-    "Name of field": "Potok G\u00f3rny",
+    "Name of field": "Potok Górny",
     "State of development": "Building Mine or Prepared or Trial",
     "Resources anticipated economic": [
       {
@@ -6321,7 +6901,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "bi\u0142gorajski",
+    "County": [
+      "biłgorajski"
+    ],
     "Country": "Poland"
   },
   {
@@ -6346,12 +6928,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "jaros\u0142awski, \nprzeworski",
+    "County": [
+      "jarosławski",
+      "przeworski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "70",
-    "Name of field": "Przemy\u015bl",
+    "Name of field": "Przemyśl",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -6371,7 +6956,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "jaros\u0142awski, \nprzemyski",
+    "County": [
+      "jarosławski",
+      "przemyski"
+    ],
     "Country": "Poland"
   },
   {
@@ -6396,7 +6984,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "przeworski",
+    "County": [
+      "przeworski"
+    ],
     "Country": "Poland"
   },
   {
@@ -6421,7 +7011,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "wielicki",
+    "County": [
+      "wielicki"
+    ],
     "Country": "Poland"
   },
   {
@@ -6446,12 +7038,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "brzeski",
+    "County": [
+      "brzeski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "74",
-    "Name of field": "R\u0105czyna",
+    "Name of field": "Rączyna",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -6471,7 +7065,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "jaros\u0142awski, \nprzeworski",
+    "County": [
+      "jarosławski",
+      "przeworski"
+    ],
     "Country": "Poland"
   },
   {
@@ -6496,7 +7093,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "jaros\u0142awski, \nprzemyski",
+    "County": [
+      "jarosławski",
+      "przemyski"
+    ],
     "Country": "Poland"
   },
   {
@@ -6521,12 +7121,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "le\u015cajski, przeworski",
+    "County": [
+      "leŜajski",
+      "przeworski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "77",
-    "Name of field": "Rudo\u0142owice",
+    "Name of field": "Rudołowice",
     "State of development": "Covered By Preliminary Exploration",
     "Resources anticipated economic": [
       {
@@ -6546,7 +7149,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "przeworski",
+    "County": [
+      "przeworski"
+    ],
     "Country": "Poland"
   },
   {
@@ -6571,7 +7176,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "brzeski",
+    "County": [
+      "brzeski"
+    ],
     "Country": "Poland"
   },
   {
@@ -6596,7 +7203,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "boche\u0144ski",
+    "County": [
+      "bocheński"
+    ],
     "Country": "Poland"
   },
   {
@@ -6621,7 +7230,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "le\u015cajski, ni\u015ca\u0144ski",
+    "County": [
+      "leŜajski",
+      "niŜański"
+    ],
     "Country": "Poland"
   },
   {
@@ -6646,12 +7258,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "\u0142a\u0144cucki",
+    "County": [
+      "łańcucki"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "82",
-    "Name of field": "Soko\u0142\u00f3w",
+    "Name of field": "Sokołów",
     "State of development": "Covered By Preliminary Exploration",
     "Resources anticipated economic": [
       {
@@ -6671,12 +7285,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "kolbuszowski, \nrzeszowski",
+    "County": [
+      "kolbuszowski",
+      "rzeszowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "84",
-    "Name of field": "Swarz\u00f3w",
+    "Name of field": "Swarzów",
     "State of development": "Underground Natural Gas Storage",
     "Resources anticipated economic": [
       {
@@ -6696,12 +7313,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "d\u0105browski",
+    "County": [
+      "dąbrowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "85",
-    "Name of field": "Szczepan\u00f3w",
+    "Name of field": "Szczepanów",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -6721,12 +7340,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "brzeski",
+    "County": [
+      "brzeski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "86",
-    "Name of field": "Tarnogr\u00f3d-Wola R\u00f3\u015caniecka",
+    "Name of field": "Tarnogród-Wola RóŜaniecka",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -6746,12 +7367,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "bi\u0142gorajski, \nprzeworski",
+    "County": [
+      "biłgorajski",
+      "przeworski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "87",
-    "Name of field": "Tarn\u00f3w (jura)",
+    "Name of field": "Tarnów (jura)",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -6771,12 +7395,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "m.Tarn\u00f3w, tarnowski",
+    "County": [
+      "m.Tarnów",
+      "tarnowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "88",
-    "Name of field": "Tarn\u00f3w (miocen)",
+    "Name of field": "Tarnów (miocen)",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -6796,7 +7423,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "m.Tarn\u00f3w, tarnowski",
+    "County": [
+      "m.Tarnów",
+      "tarnowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -6821,12 +7451,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "rzeszowski",
+    "County": [
+      "rzeszowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "90",
-    "Name of field": "Try\u0144cza",
+    "Name of field": "Tryńcza",
     "State of development": "Covered By Preliminary Exploration",
     "Resources anticipated economic": [
       {
@@ -6846,7 +7478,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "przeworski",
+    "County": [
+      "przeworski"
+    ],
     "Country": "Poland"
   },
   {
@@ -6871,7 +7505,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "rzeszowski",
+    "County": [
+      "rzeszowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -6896,12 +7532,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "lubaczowski",
+    "County": [
+      "lubaczowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "93",
-    "Name of field": "Wierzchos\u0142awice",
+    "Name of field": "Wierzchosławice",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -6921,12 +7559,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "tarnowski",
+    "County": [
+      "tarnowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "94",
-    "Name of field": "Wola Obsza\u0144ska",
+    "Name of field": "Wola Obszańska",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -6946,7 +7586,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "bi\u0142gorajski, \nlubaczowski",
+    "County": [
+      "biłgorajski",
+      "lubaczowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -6971,7 +7614,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "jaros\u0142awski, \nprzemyski",
+    "County": [
+      "jarosławski",
+      "przemyski"
+    ],
     "Country": "Poland"
   },
   {
@@ -6996,7 +7642,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "le\u015cajski, rzeszowski",
+    "County": [
+      "leŜajski",
+      "rzeszowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -7021,7 +7670,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "d\u0119bicki",
+    "County": [
+      "dębicki"
+    ],
     "Country": "Poland"
   },
   {
@@ -7046,7 +7697,9 @@
         "is_subeconomic": false
       }
     ],
-    "County": "ropczycko-\ns\u0119dziszowski",
+    "County": [
+      "ropczyckosędziszowski"
+    ],
     "Country": "Poland"
   },
   {
@@ -7071,12 +7724,14 @@
         "is_subeconomic": false
       }
     ],
-    "County": "m.Rzesz\u00f3w",
+    "County": [
+      "m.Rzeszów"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "100",
-    "Name of field": "Za\u0142\u0119\u015ce",
+    "Name of field": "ZałęŜe",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -7096,12 +7751,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "m.Rzesz\u00f3w, \nrzeszowski",
+    "County": [
+      "m.Rzeszów",
+      "rzeszowski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "101",
-    "Name of field": "\u015bo\u0142ynia-Le\u015cajsk",
+    "Name of field": "śołynia-LeŜajsk",
     "State of development": "Exploited",
     "Resources anticipated economic": [
       {
@@ -7121,12 +7779,15 @@
         "is_subeconomic": false
       }
     ],
-    "County": "le\u015cajski, przeworski",
+    "County": [
+      "leŜajski",
+      "przeworski"
+    ],
     "Country": "Poland"
   },
   {
     "Number": "102",
-    "Name of field": "\u015bukowice",
+    "Name of field": "śukowice",
     "State of development": "Exploited Temporarily",
     "Resources anticipated economic": [
       {
@@ -7146,7 +7807,10 @@
         "is_subeconomic": false
       }
     ],
-    "County": "d\u0119bicki, tarnowski",
+    "County": [
+      "dębicki",
+      "tarnowski"
+    ],
     "Country": "Poland"
   }
 ]

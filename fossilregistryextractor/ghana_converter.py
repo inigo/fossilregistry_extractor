@@ -15,7 +15,7 @@ class GhanaConverter(BaseConverter):
         table = self._extract_table(filename)
         table_as_dataframe = self._convert_table(table)
         table_as_json_obj = self._to_json(table_as_dataframe)
-        return json.dumps(table_as_json_obj)
+        return json.dumps(table_as_json_obj, ensure_ascii=False)
 
     @staticmethod
     def _extract_table(filename):

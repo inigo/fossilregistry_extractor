@@ -17,7 +17,7 @@ class PolandConverter(BaseConverter):
         pdf.close()
         combined_dataframe = pd.concat(dataframes)
         table_as_json_obj = self._to_json(combined_dataframe)
-        return json.dumps(table_as_json_obj)
+        return json.dumps(table_as_json_obj, ensure_ascii=False)
 
     def to_dataframe(self, page):
         table = page.extract_table()
