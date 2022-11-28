@@ -1,0 +1,1044 @@
+[
+  {
+    "purpose": "Natural gas production by field",
+    "data": [
+      {
+        "Country": "Germany",
+        "Field": "A6 / B4",
+        "Year of discovery": 1974.0,
+        "Operator": "Win.Dea",
+        "Natural gas production 2020": 7902041.0,
+        "Probes": null
+      },
+      {
+        "Country": "Germany",
+        "Field": "Alfeld-Elze / Hildesheimer Wald",
+        "Year of discovery": 1972.0,
+        "Operator": "5P",
+        "Natural gas production 2020": 4832932.0,
+        "Probes": 1.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Becklingen",
+        "Year of discovery": 1985.0,
+        "Operator": "Win.Dea",
+        "Natural gas production 2020": 7899499.0,
+        "Probes": 1.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Böstlingen",
+        "Year of discovery": 2012.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": null,
+        "Probes": null
+      },
+      {
+        "Country": "Germany",
+        "Field": "Dethlingen",
+        "Year of discovery": 1971.0,
+        "Operator": "E / W",
+        "Natural gas production 2020": 84828398.0,
+        "Probes": 2.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Hamwiede",
+        "Year of discovery": 1968.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 37587113.0,
+        "Probes": 1.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Husum / Schneeren",
+        "Year of discovery": 1986.0,
+        "Operator": "E / N",
+        "Natural gas production 2020": 143511410.0,
+        "Probes": 9.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Imbrock",
+        "Year of discovery": 1995.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 11288598.0,
+        "Probes": 1.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Lüchow / Wustrow",
+        "Year of discovery": 1966.0,
+        "Operator": "Neptune",
+        "Natural gas production 2020": 5526454.0,
+        "Probes": 1.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Rotenburg / Taaken",
+        "Year of discovery": 1982.0,
+        "Operator": "E / W",
+        "Natural gas production 2020": 725748857.0,
+        "Probes": 26.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Salzwedel (Altmark / Sanne / Wenze)",
+        "Year of discovery": 1968.0,
+        "Operator": "Neptune",
+        "Natural gas production 2020": 301741303.0,
+        "Probes": 130.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Söhlingen",
+        "Year of discovery": 1980.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 252817834.0,
+        "Probes": 17.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Soltau / Friedrichseck",
+        "Year of discovery": 1984.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 20544048.0,
+        "Probes": 1.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Thönse (Jura)",
+        "Year of discovery": 1952.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 32635225.0,
+        "Probes": 4.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Thönse (Rhät)",
+        "Year of discovery": 1952.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 9264518.0,
+        "Probes": 1.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Völkersen / Völkersen-Nord",
+        "Year of discovery": 1992.0,
+        "Operator": "Win.Dea",
+        "Natural gas production 2020": 606240135.0,
+        "Probes": 14.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Walsrode / Idsingen",
+        "Year of discovery": 1980.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 138347923.0,
+        "Probes": 7.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Wardböhmen / Bleckmar",
+        "Year of discovery": 1987.0,
+        "Operator": "Win.Dea",
+        "Natural gas production 2020": 34274274.0,
+        "Probes": 2.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Weissenmoor",
+        "Year of discovery": 1996.0,
+        "Operator": "Win.Dea",
+        "Natural gas production 2020": 105114568.0,
+        "Probes": 2.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Apeldorn",
+        "Year of discovery": 1963.0,
+        "Operator": "Neptune",
+        "Natural gas production 2020": 84002984.0,
+        "Probes": 3.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Bahrenborstel / Burgmoor / Uchte (Z)",
+        "Year of discovery": 1962.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 278798027.0,
+        "Probes": 8.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Bahrenborstel / Uchte (Buntsandstein)",
+        "Year of discovery": 1962.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 33606188.0,
+        "Probes": 3.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Barenburg (Keuper)",
+        "Year of discovery": 2017.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 5885617.0,
+        "Probes": 1.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Barenburg / Buchhorst (Buntsandstein)",
+        "Year of discovery": 1959.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 45353493.0,
+        "Probes": 4.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Barenburg / Buchhorst (Zechstein)",
+        "Year of discovery": 1959.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 36252258.0,
+        "Probes": 3.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Barrien",
+        "Year of discovery": 1964.0,
+        "Operator": "Win.Dea",
+        "Natural gas production 2020": 23722151.0,
+        "Probes": 6.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Brettorf / Brinkholz / Neerstedt",
+        "Year of discovery": 1977.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 125543606.0,
+        "Probes": 5.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Cappeln (Karbon)",
+        "Year of discovery": 1970.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 13047356.0,
+        "Probes": 2.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Cappeln (Zechstein)",
+        "Year of discovery": 1970.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 36613389.0,
+        "Probes": 3.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Deblinghausen",
+        "Year of discovery": 1958.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 96234743.0,
+        "Probes": 3.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Dötlingen",
+        "Year of discovery": 1965.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 14609176.0,
+        "Probes": 1.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Düste (Buntsandstein)",
+        "Year of discovery": 1957.0,
+        "Operator": "Win.Dea",
+        "Natural gas production 2020": 4528600.0,
+        "Probes": 3.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Düste (Karbon)",
+        "Year of discovery": 1957.0,
+        "Operator": "Win.Dea",
+        "Natural gas production 2020": null,
+        "Probes": null
+      },
+      {
+        "Country": "Germany",
+        "Field": "Goldenstedt (Buntsandstein)",
+        "Year of discovery": 1959.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 2984650.0,
+        "Probes": 1.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Goldenstedt / Oythe (Karbon)",
+        "Year of discovery": 1959.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 295939446.0,
+        "Probes": 5.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Goldenstedt / Visbek (Zechstein)",
+        "Year of discovery": 1962.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 541876002.0,
+        "Probes": 20.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Greetsiel / Leybucht",
+        "Year of discovery": 1972.0,
+        "Operator": "E / N",
+        "Natural gas production 2020": 4702488.0,
+        "Probes": 1.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Großes Meer",
+        "Year of discovery": 1978.0,
+        "Operator": "Vermilion",
+        "Natural gas production 2020": 6256.0,
+        "Probes": null
+      },
+      {
+        "Country": "Germany",
+        "Field": "Hemmelte (Buntsandstein)",
+        "Year of discovery": 1964.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": null,
+        "Probes": null
+      },
+      {
+        "Country": "Germany",
+        "Field": "Hemmelte / Kneheim / Vahren (Z)",
+        "Year of discovery": 1980.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 259603407.0,
+        "Probes": 10.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Hengstlage (Buntsandstein)",
+        "Year of discovery": 1963.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 113332718.0,
+        "Probes": 8.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Hengstlage / Sage / Sagermeer (Z)",
+        "Year of discovery": 1968.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 115156677.0,
+        "Probes": 10.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Klosterseelte / Kirchseelte / Ortholz",
+        "Year of discovery": 1985.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 24081924.0,
+        "Probes": 1.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Kneheim (Buntsandstein)",
+        "Year of discovery": 1985.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 4035615.0,
+        "Probes": 1.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Leer",
+        "Year of discovery": 1984.0,
+        "Operator": "Vermilion",
+        "Natural gas production 2020": 11364045.0,
+        "Probes": 3.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Rehden (Buntsandstein)",
+        "Year of discovery": 1952.0,
+        "Operator": "Win.Dea",
+        "Natural gas production 2020": null,
+        "Probes": null
+      },
+      {
+        "Country": "Germany",
+        "Field": "Rehden (Karbon)",
+        "Year of discovery": 1952.0,
+        "Operator": "Win.Dea",
+        "Natural gas production 2020": null,
+        "Probes": null
+      },
+      {
+        "Country": "Germany",
+        "Field": "Siedenburg / Staffhorst (Buntsandst.)",
+        "Year of discovery": 1963.0,
+        "Operator": "E / W",
+        "Natural gas production 2020": 73423543.0,
+        "Probes": 7.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Siedenburg / Staffhorst (Zechstein)",
+        "Year of discovery": 1963.0,
+        "Operator": "E / W",
+        "Natural gas production 2020": 57088800.0,
+        "Probes": 3.0
+      },
+      {
+        "Country": "Germany",
+        "Field": "Siedenburg-West / Hesterberg",
+        "Year of discovery": 1964.0,
+        "Operator": "EMPG",
+        "Natural gas production 2020": 261530154.0,
+        "Probes": 9.0
+      }
+    ]
+  },
+  {
+    "purpose": "Raw gas reserves",
+    "data": [
+      {
+        "State/Territory": "Bayern",
+        "Certain reserves 2020": 39.0,
+        "Probable reserves 2020": 65.0,
+        " Total reserves 2020": 104.0,
+        "Production 2020": 5.0,
+        "Certain reserves 2021": 34.0,
+        "Probable reserves 2021": 60.0,
+        "Total reserves 2021": 94.0,
+        "Country": "Germany"
+      },
+      {
+        "State/Territory": "Niedersachsen",
+        "Certain reserves 2020": 24503.0,
+        "Probable reserves 2020": 21640.0,
+        " Total reserves 2020": 46142.0,
+        "Production 2020": 5308.0,
+        "Certain reserves 2021": 21958.0,
+        "Probable reserves 2021": 20825.0,
+        "Total reserves 2021": 42783.0,
+        "Country": "Germany"
+      },
+      {
+        "State/Territory": "Sachsen-Anhalt",
+        "Certain reserves 2020": 157.0,
+        "Probable reserves 2020": 104.0,
+        " Total reserves 2020": 260.0,
+        "Production 2020": 302.0,
+        "Certain reserves 2021": 253.0,
+        "Probable reserves 2021": 29.0,
+        "Total reserves 2021": 281.0,
+        "Country": "Germany"
+      },
+      {
+        "State/Territory": "Schleswig-Holstein",
+        "Certain reserves 2020": 10.0,
+        "Probable reserves 2020": 0.0,
+        " Total reserves 2020": 10.0,
+        "Production 2020": 8.0,
+        "Certain reserves 2021": 0.0,
+        "Probable reserves 2021": 0.0,
+        "Total reserves 2021": 0.0,
+        "Country": "Germany"
+      },
+      {
+        "State/Territory": "Thüringen",
+        "Certain reserves 2020": 101.0,
+        "Probable reserves 2020": 14.0,
+        " Total reserves 2020": 115.0,
+        "Production 2020": 14.0,
+        "Certain reserves 2021": 30.0,
+        "Probable reserves 2021": 4.0,
+        "Total reserves 2021": 34.0,
+        "Country": "Germany"
+      },
+      {
+        "State/Territory": "Nordsee",
+        "Certain reserves 2020": 10.0,
+        "Probable reserves 2020": 0.0,
+        " Total reserves 2020": 10.0,
+        "Production 2020": 8.0,
+        "Certain reserves 2021": 0.0,
+        "Probable reserves 2021": 0.0,
+        "Total reserves 2021": 0.0,
+        "Country": "Germany"
+      },
+      {
+        "State/Territory": "Elbe-Weser",
+        "Certain reserves 2020": 11914.0,
+        "Probable reserves 2020": 10320.0,
+        " Total reserves 2020": 22234.0,
+        "Production 2020": 2522.0,
+        "Certain reserves 2021": 10643.0,
+        "Probable reserves 2021": 8482.0,
+        "Total reserves 2021": 19126.0,
+        "Country": "Germany"
+      },
+      {
+        "State/Territory": "Weser-Ems",
+        "Certain reserves 2020": 12284.0,
+        "Probable reserves 2020": 11109.0,
+        " Total reserves 2020": 23393.0,
+        "Production 2020": 2961.0,
+        "Certain reserves 2021": 9315.0,
+        "Probable reserves 2021": 10480.0,
+        "Total reserves 2021": 19795.0,
+        "Country": "Germany"
+      },
+      {
+        "State/Territory": "Westlich der Ems",
+        "Certain reserves 2020": 462.0,
+        "Probable reserves 2020": 313.0,
+        " Total reserves 2020": 775.0,
+        "Production 2020": 127.0,
+        "Certain reserves 2021": 2252.0,
+        "Probable reserves 2021": 1892.0,
+        "Total reserves 2021": 4144.0,
+        "Country": "Germany"
+      },
+      {
+        "State/Territory": "Thüringer Becken",
+        "Certain reserves 2020": 101.0,
+        "Probable reserves 2020": 14.0,
+        " Total reserves 2020": 115.0,
+        "Production 2020": 14.0,
+        "Certain reserves 2021": 30.0,
+        "Probable reserves 2021": 4.0,
+        "Total reserves 2021": 34.0,
+        "Country": "Germany"
+      },
+      {
+        "State/Territory": "Alpenvorland",
+        "Certain reserves 2020": 39.0,
+        "Probable reserves 2020": 65.0,
+        " Total reserves 2020": 104.0,
+        "Production 2020": 5.0,
+        "Certain reserves 2021": 34.0,
+        "Probable reserves 2021": 60.0,
+        "Total reserves 2021": 94.0,
+        "Country": "Germany"
+      },
+      {
+        "State/Territory": "Summe Deutschland",
+        "Certain reserves 2020": 24809.0,
+        "Probable reserves 2020": 21822.0,
+        " Total reserves 2020": 46631.0,
+        "Production 2020": 5636.0,
+        "Certain reserves 2021": 22275.0,
+        "Probable reserves 2021": 20917.0,
+        "Total reserves 2021": 43192.0,
+        "Country": "Germany"
+      }
+    ]
+  },
+  {
+    "purpose": "Clean gas reserves",
+    "data": [
+      {
+        "State/Territory": "Bayern",
+        "Certain reserves 2020": 44.0,
+        "Probable reserves 2020": 69.0,
+        " Total reserves 2020": 113.0,
+        "Production 2020": 6.0,
+        "Certain reserves 2021": 39.0,
+        "Probable reserves 2021": 68.0,
+        "Total reserves 2021": 107.0,
+        "Country": "Germany"
+      },
+      {
+        "State/Territory": "Niedersachsen",
+        "Certain reserves 2020": 23302.0,
+        "Probable reserves 2020": 20353.0,
+        " Total reserves 2020": 43656.0,
+        "Production 2020": 4955.0,
+        "Certain reserves 2021": 21244.0,
+        "Probable reserves 2021": 19577.0,
+        "Total reserves 2021": 40821.0,
+        "Country": "Germany"
+      },
+      {
+        "State/Territory": "Sachsen-Anhalt",
+        "Certain reserves 2020": 56.0,
+        "Probable reserves 2020": 37.0,
+        " Total reserves 2020": 93.0,
+        "Production 2020": 111.0,
+        "Certain reserves 2021": 92.0,
+        "Probable reserves 2021": 10.0,
+        "Total reserves 2021": 102.0,
+        "Country": "Germany"
+      },
+      {
+        "State/Territory": "Schleswig-Holstein",
+        "Certain reserves 2020": 12.0,
+        "Probable reserves 2020": 0.0,
+        " Total reserves 2020": 12.0,
+        "Production 2020": 10.0,
+        "Certain reserves 2021": 0.0,
+        "Probable reserves 2021": 0.0,
+        "Total reserves 2021": 0.0,
+        "Country": "Germany"
+      },
+      {
+        "State/Territory": "Thüringen",
+        "Certain reserves 2020": 68.0,
+        "Probable reserves 2020": 9.0,
+        " Total reserves 2020": 77.0,
+        "Production 2020": 9.0,
+        "Certain reserves 2021": 19.0,
+        "Probable reserves 2021": 2.0,
+        "Total reserves 2021": 21.0,
+        "Country": "Germany"
+      },
+      {
+        "State/Territory": "Nordsee",
+        "Certain reserves 2020": 12.0,
+        "Probable reserves 2020": 0.0,
+        " Total reserves 2020": 12.0,
+        "Production 2020": 10.0,
+        "Certain reserves 2021": 0.0,
+        "Probable reserves 2021": 0.0,
+        "Total reserves 2021": 0.0,
+        "Country": "Germany"
+      },
+      {
+        "State/Territory": "Elbe-Weser",
+        "Certain reserves 2020": 12205.0,
+        "Probable reserves 2020": 10469.0,
+        " Total reserves 2020": 22675.0,
+        "Production 2020": 2375.0,
+        "Certain reserves 2021": 10795.0,
+        "Probable reserves 2021": 8672.0,
+        "Total reserves 2021": 19467.0,
+        "Country": "Germany"
+      },
+      {
+        "State/Territory": "Weser-Ems",
+        "Certain reserves 2020": 10671.0,
+        "Probable reserves 2020": 9604.0,
+        " Total reserves 2020": 20275.0,
+        "Production 2020": 2558.0,
+        "Certain reserves 2021": 8153.0,
+        "Probable reserves 2021": 8907.0,
+        "Total reserves 2021": 17060.0,
+        "Country": "Germany"
+      },
+      {
+        "State/Territory": "Westlich der Ems",
+        "Certain reserves 2020": 483.0,
+        "Probable reserves 2020": 317.0,
+        " Total reserves 2020": 799.0,
+        "Production 2020": 133.0,
+        "Certain reserves 2021": 2387.0,
+        "Probable reserves 2021": 2008.0,
+        "Total reserves 2021": 4395.0,
+        "Country": "Germany"
+      },
+      {
+        "State/Territory": "Thüringer Becken",
+        "Certain reserves 2020": 68.0,
+        "Probable reserves 2020": 9.0,
+        " Total reserves 2020": 77.0,
+        "Production 2020": 9.0,
+        "Certain reserves 2021": 19.0,
+        "Probable reserves 2021": 2.0,
+        "Total reserves 2021": 21.0,
+        "Country": "Germany"
+      },
+      {
+        "State/Territory": "Alpenvorland",
+        "Certain reserves 2020": 44.0,
+        "Probable reserves 2020": 69.0,
+        " Total reserves 2020": 113.0,
+        "Production 2020": 6.0,
+        "Certain reserves 2021": 39.0,
+        "Probable reserves 2021": 68.0,
+        "Total reserves 2021": 107.0,
+        "Country": "Germany"
+      },
+      {
+        "State/Territory": "Summe Deutschland",
+        "Certain reserves 2020": 23482.0,
+        "Probable reserves 2020": 20468.0,
+        " Total reserves 2020": 43950.0,
+        "Production 2020": 5091.0,
+        "Certain reserves 2021": 21393.0,
+        "Probable reserves 2021": 19658.0,
+        "Total reserves 2021": 41051.0,
+        "Country": "Germany"
+      }
+    ]
+  },
+  {
+    "purpose": "Natural gas storage reservoirs",
+    "data": [
+      {
+        "Storage": "Allmenhausen",
+        "State": "TH",
+        "Operator": "TEP Thüringer Energie Speichergesellschaft mbH /",
+        "Storage type": "ehem. Gasfeld",
+        "Depth": "350",
+        "Geologic formation": "Buntsandstein",
+        "Total volume": 380.0,
+        "Max usable gas": 62.0,
+        "Gas after completion": 62.0,
+        "Plateau withdrawal rate": 62.0,
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Bad Lauchstädt",
+        "State": "ST",
+        "Operator": "VNG Gasspeicher GmbH",
+        "Storage type": "ehem. Gasfeld",
+        "Depth": "800",
+        "Geologic formation": "Rotliegend",
+        "Total volume": 670.0,
+        "Max usable gas": 440.0,
+        "Gas after completion": 440.0,
+        "Plateau withdrawal rate": 238.0,
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Bierwang",
+        "State": "BY",
+        "Operator": "Uniper Energy Storage GmbH",
+        "Storage type": "ehem. Gasfeld",
+        "Depth": "1560",
+        "Geologic formation": "Tertiär (Chatt)",
+        "Total volume": 3140.0,
+        "Max usable gas": 1000.0,
+        "Gas after completion": 1000.0,
+        "Plateau withdrawal rate": 1200.0,
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Breitbrunn-Eggstätt",
+        "State": "BY",
+        "Operator": "Uniper Energy Storage GmbH / NAFTA Speicher",
+        "Storage type": "ehem. Gasfeld",
+        "Depth": "1900",
+        "Geologic formation": "Tertiär (Chatt)",
+        "Total volume": 2075.0,
+        "Max usable gas": 992.0,
+        "Gas after completion": 992.0,
+        "Plateau withdrawal rate": 520.0,
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Eschenfelden",
+        "State": "BY",
+        "Operator": "Uniper Energy Storage GmbH / Uniper Energy Sto-",
+        "Storage type": "Aquifer",
+        "Depth": "600",
+        "Geologic formation": "Keuper, Muschelkalk",
+        "Total volume": 168.0,
+        "Max usable gas": 72.0,
+        "Gas after completion": 72.0,
+        "Plateau withdrawal rate": 95.0,
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Frankenthal",
+        "State": "RP",
+        "Operator": "Enovos Storage GmbH",
+        "Storage type": "Aquifer",
+        "Depth": "600 - 1000",
+        "Geologic formation": "Jungtertiär I + II",
+        "Total volume": 300.0,
+        "Max usable gas": 90.0,
+        "Gas after completion": 90.0,
+        "Plateau withdrawal rate": 130.0,
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Fronhofen-Illmensee",
+        "State": "BW",
+        "Operator": "Storengy Deutschland GmbH",
+        "Storage type": "ehem. Ölfeld",
+        "Depth": "1750 - 2200",
+        "Geologic formation": "Muschelkalk",
+        "Total volume": 153.0,
+        "Max usable gas": 10.0,
+        "Gas after completion": 10.0,
+        "Plateau withdrawal rate": 30.0,
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Hähnlein",
+        "State": "HE",
+        "Operator": "MND Gas Storage Germany GmbH",
+        "Storage type": "Aquifer",
+        "Depth": "500",
+        "Geologic formation": "Tertiär (Pliozän)",
+        "Total volume": 160.0,
+        "Max usable gas": 80.0,
+        "Gas after completion": 80.0,
+        "Plateau withdrawal rate": 100.0,
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Inzenham",
+        "State": "BY",
+        "Operator": "NAFTA Speicher Inzenham / NAFTA Speicher",
+        "Storage type": "ehem. Gasfeld",
+        "Depth": "680 - 880",
+        "Geologic formation": "Tertiär (Aquitan)",
+        "Total volume": 880.0,
+        "Max usable gas": 425.0,
+        "Gas after completion": 425.0,
+        "Plateau withdrawal rate": 300.0,
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Rehden",
+        "State": "NI",
+        "Operator": "astora GmbH / WINGAS GmbH",
+        "Storage type": "ehem. Gasfeld",
+        "Depth": "1900 - 2250",
+        "Geologic formation": "Zechstein",
+        "Total volume": 6780.0,
+        "Max usable gas": 3900.0,
+        "Gas after completion": 3900.0,
+        "Plateau withdrawal rate": 2400.0,
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Sandhausen",
+        "State": "BW",
+        "Operator": "terranets bw",
+        "Storage type": "Aquifer",
+        "Depth": "600",
+        "Geologic formation": "Tertiär",
+        "Total volume": 68.0,
+        "Max usable gas": 30.0,
+        "Gas after completion": 34.0,
+        "Plateau withdrawal rate": 45.0,
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Schmidhausen",
+        "State": "BY",
+        "Operator": "Storengy Deutschland GmbH",
+        "Storage type": "ehem. Gasfeld",
+        "Depth": "1015",
+        "Geologic formation": "Tertiär (Aquitan)",
+        "Total volume": 310.0,
+        "Max usable gas": 154.0,
+        "Gas after completion": 154.0,
+        "Plateau withdrawal rate": 150.0,
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Stockstadt",
+        "State": "HE",
+        "Operator": "MND Gas Storage Germany GmbH",
+        "Storage type": "ehem. Gasfeld",
+        "Depth": "500",
+        "Geologic formation": "Tertiär (Pliozän)",
+        "Total volume": 94.0,
+        "Max usable gas": 45.0,
+        "Gas after completion": 45.0,
+        "Plateau withdrawal rate": 45.0,
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Stockstadt",
+        "State": "HE",
+        "Operator": "MND Gas Storage Germany GmbH",
+        "Storage type": "Aquifer",
+        "Depth": "450",
+        "Geologic formation": "Tertiär (Pliozän)",
+        "Total volume": 180.0,
+        "Max usable gas": 90.0,
+        "Gas after completion": 90.0,
+        "Plateau withdrawal rate": 90.0,
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Uelsen",
+        "State": "NI",
+        "Operator": "Storengy Deutschland GmbH",
+        "Storage type": "ehem. Gasfeld",
+        "Depth": "1470 - 1525",
+        "Geologic formation": "Buntsandstein",
+        "Total volume": 1579.0,
+        "Max usable gas": 860.0,
+        "Gas after completion": 860.0,
+        "Plateau withdrawal rate": 430.0,
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Wolfersberg",
+        "State": "BY",
+        "Operator": "Bayerngas GmbH / NAFTA Speicher GmbH & Co.",
+        "Storage type": "ehem. Gasfeld",
+        "Depth": "2930",
+        "Geologic formation": "Tertiär",
+        "Total volume": 583.0,
+        "Max usable gas": 365.0,
+        "Gas after completion": 365.0,
+        "Plateau withdrawal rate": 240.0,
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Summe",
+        "State": "",
+        "Operator": "",
+        "Storage type": "",
+        "Depth": "",
+        "Geologic formation": "",
+        "Total volume": 17520.0,
+        "Max usable gas": 8615.0,
+        "Gas after completion": 8619.0,
+        "Plateau withdrawal rate": 6075.0,
+        "Country": "Germany"
+      }
+    ]
+  },
+  {
+    "purpose": "Crude oil, petroleum products and liquid gas storage caverns",
+    "data": [
+      {
+        "Storage": "Bernburg-",
+        "State": "ST",
+        "Company": "K+S Minerals and Agriculture",
+        "Storage type": "Salzlager-",
+        "Depth": "510-680",
+        "Number of storage tanks": 2.0,
+        "Filling": "Propan",
+        "Status": "in Betrieb",
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Blexen",
+        "State": "NI",
+        "Company": "Untertage-Speicher-Gesell-",
+        "Storage type": "Salzstock-",
+        "Depth": "640-1430",
+        "Number of storage tanks": 4.0,
+        "Filling": "Rohöl",
+        "Status": "in Betrieb",
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Bremen-",
+        "State": "HB",
+        "Company": "Nord-West Kavernen GmbH",
+        "Storage type": "Salzstock-",
+        "Depth": "600-900",
+        "Number of storage tanks": 5.0,
+        "Filling": "Leichtes",
+        "Status": "in Betrieb",
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Epe",
+        "State": "NW",
+        "Company": "Salzgewinnungsgesellschaft",
+        "Storage type": "Salz-",
+        "Depth": "1000-1400",
+        "Number of storage tanks": 5.0,
+        "Filling": "Rohöl,",
+        "Status": "in Betrieb",
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Etzel",
+        "State": "NI",
+        "Company": "STORAG Etzel GmbH",
+        "Storage type": "Salzstock-",
+        "Depth": "800-1600",
+        "Number of storage tanks": 24.0,
+        "Filling": "Rohöl,",
+        "Status": "in Betrieb",
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Heide",
+        "State": "SH",
+        "Company": "Nord-West Kavernen GmbH",
+        "Storage type": "Salzstock-",
+        "Depth": "600-1000",
+        "Number of storage tanks": 9.0,
+        "Filling": "Rohöl,",
+        "Status": "in Betrieb",
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Heide 101",
+        "State": "SH",
+        "Company": "Raffinerie Heide GmbH",
+        "Storage type": "Salzstock-",
+        "Depth": "660-760",
+        "Number of storage tanks": 1.0,
+        "Filling": "Butan",
+        "Status": "in Betrieb",
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Ohrensen",
+        "State": "NI",
+        "Company": "DOW Deutschland Anlagen-",
+        "Storage type": "Salzstock-",
+        "Depth": "800-1100",
+        "Number of storage tanks": 1.0,
+        "Filling": "Ethylen",
+        "Status": "in Betrieb \n.",
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Sottorf",
+        "State": "NI",
+        "Company": "Nord-West Kavernen GmbH",
+        "Storage type": "Salzstock-",
+        "Depth": "600-1200",
+        "Number of storage tanks": 9.0,
+        "Filling": "Rohöl,",
+        "Status": "in Betrieb",
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Teutschenthal",
+        "State": "ST",
+        "Company": "DOW Olefinverbund GmbH",
+        "Storage type": "Salzlager-",
+        "Depth": "700-800",
+        "Number of storage tanks": 3.0,
+        "Filling": "Ethylen",
+        "Status": "in Betrieb",
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Wilhelmshaven-",
+        "State": "NI",
+        "Company": "Nord-West Kavernen GmbH",
+        "Storage type": "Salzstock-",
+        "Depth": "1200-2000",
+        "Number of storage tanks": 33.0,
+        "Filling": "Rohöl,",
+        "Status": "in Betrieb",
+        "Country": "Germany"
+      },
+      {
+        "Storage": "Summe",
+        "State": "",
+        "Company": "",
+        "Storage type": "",
+        "Depth": "",
+        "Number of storage tanks": 101.0,
+        "Filling": "",
+        "Status": "",
+        "Country": "Germany"
+      }
+    ]
+  }
+]

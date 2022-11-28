@@ -3,7 +3,12 @@ Extract data from content relevant to the Global Registry of Fossil Fuels (https
 * ghana_converter - production figures from the Ghana National Petroleum Corporation provided by 
   Fossil Fuel Registry at https://drive.google.com/drive/folders/1z5aByfrIyUi-KeiNjyz3uIKHdebOVV9d?usp=sharing
 * poland_converter - list of natural gas fields in Poland from the Polish Geological Institute 
+* german_converter - gas and oil production, reserves and storage in Germany
 
+Not included:
+
+* Peru - earlier files (ResumEjec...) don't work with the Open Source libraries, but do work with the 
+  commercial pdftables.com. Later files (LARH...) appear to be scanned images and need OCR.
 
 # License
 
